@@ -1,0 +1,118 @@
+[
+  {
+    "hospital_id": "cnha-cfdi-28c180c3c0a803337c9a4eaf72b893ea",
+    "official_review_completed": false,
+    "names": [
+      {"value":"The First Hospital of Jilin University","kind":"english_name","source_url":"https://cie.jlu.edu.cn/info/1137/1681.htm","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-1cddfb03c0a803332664670577fb4a58",
+    "official_review_completed": false,
+    "city_names": ["Zhengzhou", "郑州市"],
+    "names": [
+      {"value":"The First Affiliated Hospital of Zhengzhou University","kind":"english_name","source_url":"https://international.zzu.edu.cn/en/school/detail?cid=3&detail=18&pid=3","accessed_at":"2026-09-05"},
+      {"value":"First Affiliated Hospital of Zhengzhou University","kind":"english_name","source_url":"https://international.zzu.edu.cn/en/school/detail?cid=3&detail=18&pid=3","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-56984763c0a803336779babb6fc8fa42",
+    "official_review_completed": false,
+    "names": [
+      {"value":"The First Affiliated Hospital of Nanchang University","kind":"english_name","source_url":"https://english.ncu.edu.cn/Schools__Departments/College_Settings.htm","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-cfc87cfdc0a8033370f2b59ea8bf5206",
+    "official_review_completed": false,
+    "city_names": ["Wuhan", "武汉市"],
+    "names": [
+      {"value":"Union Hospital, Tongji Medical College, Huazhong University of Science and Technology","kind":"english_name","source_url":"https://www.whuh.com/en/index.htm","accessed_at":"2026-09-05"},
+      {"value":"Hankow Union Hospital","kind":"historical_name","source_url":"https://www.whuh.com/en/About_Us1/History.htm","accessed_at":"2026-09-05"},
+      {"value":"Union Hospital, Tongji Medical University","kind":"historical_name","source_url":"https://www.whuh.com/en/About_Us1/History.htm","accessed_at":"2026-09-05","valid_from":"1985","valid_to":"2000"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-f9225458c0a8033321f824bbb774a21f",
+    "official_review_completed": false,
+    "names": [
+      {"value":"The First Affiliated Hospital of Anhui Medical University","kind":"english_name","source_url":"https://www.ayfy.com/info/1196/14417.htm","accessed_at":"2026-09-05"},
+      {"value":"安医大一附院","kind":"common_short_name","source_url":"https://www.ayfy.com/info/1196/14417.htm","accessed_at":"2026-09-05"},
+      {"value":"安医附院","kind":"common_short_name","source_url":"https://www.ayfy.com/info/1196/14417.htm","accessed_at":"2026-09-05"},
+      {"value":"安医","kind":"common_short_name","source_url":"https://www.ayfy.com/info/1196/14417.htm","accessed_at":"2026-09-05"},
+      {"value":"AYFY","kind":"common_short_name","source_url":"https://www.ayfy.com/info/1196/14417.htm","accessed_at":"2026-09-05"},
+      {"value":"安徽医学院附属医院","kind":"historical_name","source_url":"https://www.ayfy.com/yyjs/lsyg.htm","accessed_at":"2026-09-05","valid_from":"1952","valid_to":"1985"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-5aade771c0a803334595b5c3428d53c9",
+    "official_review_completed": false,
+    "names": [
+      {"value": "中山大学肿瘤防治中心", "kind": "official_variant", "source_url": "https://sysucc.org.cn/zxjj", "accessed_at": "2026-09-05"},
+      {"value": "中山大学附属肿瘤医院", "kind": "parallel_name", "source_url": "https://sysucc.org.cn/zxjj", "accessed_at": "2026-09-05"},
+      {"value": "Sun Yat-sen University Cancer Center", "kind": "english_name", "source_url": "https://english.sysucc.org.cn/index.aspx", "accessed_at": "2026-09-05"},
+      {"value": "SYSUCC", "kind": "common_short_name", "source_url": "https://english.sysucc.org.cn/index.aspx", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-f4272ec5c0a80333460485425a122d1d",
+    "official_review_completed": false,
+    "names": [
+      {"value": "北京协和医院", "kind": "official_variant", "source_url": "https://www.pumch.cn/research/gudie.html", "accessed_at": "2026-09-05"},
+      {"value": "中国医学科学院北京协和医院", "kind": "official_variant", "source_url": "https://www.pumch.cn/detail/46305.html", "accessed_at": "2026-09-05"},
+      {"value": "Peking Union Medical College Hospital", "kind": "english_name", "source_url": "https://www.pumch.cn/en/detail/43267.html", "accessed_at": "2026-09-05"},
+      {"value": "PUMCH", "kind": "common_short_name", "source_url": "https://www.pumch.cn/en/detail/43267.html", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-baf67b59c0a8033336a1a7228617e8b5",
+    "official_review_completed": false,
+    "names": [
+      {"value": "复旦大学附属肿瘤医院", "kind": "official_variant", "source_url": "https://www.shca.org.cn/home/news/info/id/323.shtml", "accessed_at": "2026-09-05"},
+      {"value": "Fudan University Shanghai Cancer Center", "kind": "english_name", "source_url": "https://www.shca.org.cn/english/channel/index/1108.shtml", "accessed_at": "2026-09-05"},
+      {"value": "FUSCC", "kind": "common_short_name", "source_url": "https://www.shca.org.cn/english/channel/index/1108.shtml", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-1ee7cbacc0a803333781c82ae9b72a5d",
+    "official_review_completed": true,
+    "review_scope": "Chinese name, English name, short name, documented historical names and USCC checked. This does not certify NMPA participation counts or exhaustive alias coverage.",
+    "names": [
+      {"value": "四川大学华西医院", "kind": "official_variant", "source_url": "https://www.wchscu.cn/public/notice/noticeer/90516.html", "accessed_at": "2026-09-05"},
+      {"value": "华西医科大学附属第一医院", "kind": "historical_name", "source_url": "https://www.wchscu.cn/bnhx.html", "accessed_at": "2026-09-05", "valid_from": "1985", "valid_to": "2001"},
+      {"value": "四川医学院附属医院", "kind": "historical_name", "source_url": "https://www.wchscu.cn/bnhx.html", "accessed_at": "2026-09-05", "valid_from": "1953", "valid_to": "1985"},
+      {"value": "West China Hospital, Sichuan University", "kind": "english_name", "source_url": "https://ent.wchscu.cn/", "accessed_at": "2026-09-05"},
+      {"value": "West China Hospital of Sichuan University", "kind": "english_name", "source_url": "https://www.wchscu.cn/scientific/entrance.html", "accessed_at": "2026-09-05"},
+      {"value": "华西医院", "kind": "common_short_name", "source_url": "https://www.wchscu.cn/department_xbzlk/dynamic.html", "accessed_at": "2026-09-05"}
+    ],
+    "identifiers": [{"scheme": "cn_uscc", "value": "12510000450756139Y", "source_url": "https://www.wchscu.cn/public/notice/noticeer/90516.html", "accessed_at": "2026-09-05"}]
+  },
+  {
+    "hospital_id": "cnha-cfdi-88d3b2b8c0a803331b12a6cc08d63a3f",
+    "official_review_completed": false,
+    "names": [
+      {"value": "Peking University First Hospital", "kind": "english_name", "source_url": "https://research.bjmu.edu.cn/jdpt/jdml/bwjkyjd/jybzdsys/db6fda93d7b548ee841293259ba29f77.htm", "accessed_at": "2026-09-05"},
+      {"value": "北大医院", "kind": "common_short_name", "source_url": "https://www.pkufh.com/News/Articles/ProtectedIndex/1198?isPreview=False", "accessed_at": "2026-09-05"},
+      {"value": "北京医科大学校附属医院", "kind": "historical_name", "source_url": "https://www.pkufh.com/News/Articles/ProtectedIndex/1198?isPreview=False", "accessed_at": "2026-09-05"},
+      {"value": "北平大学医学院附属医院", "kind": "historical_name", "source_url": "https://www.pkufh.com/News/Articles/ProtectedIndex/1198?isPreview=False", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-6142322cc0a80333778027a05e997a2f",
+    "official_review_completed": false,
+    "city_names": ["Guangzhou", "广州市"],
+    "names": [
+      {"value": "Guangdong Provincial People's Hospital", "kind": "english_name", "source_url": "https://www.gdghospital.org.cn/EN/", "accessed_at": "2026-09-05"},
+      {"value": "广东省医学科学院", "kind": "parallel_name", "source_url": "https://www.gdghospital.org.cn/introductiontothehospital/index.html", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-d666ab32c0a803334ccfef20528e62f8",
+    "official_review_completed": false,
+    "names": [
+      {"value": "广东省应急医院", "kind": "parallel_name", "source_url": "https://www.gd2h.com/site/column/145_1_20.html", "accessed_at": "2026-09-05"},
+      {"value": "广东省177医院", "kind": "historical_name", "source_url": "https://www.gd2h.com/site/column/145_1_20.html", "accessed_at": "2026-09-05", "valid_from": "1998", "valid_to": "2004"},
+      {"value": "解放军177医院", "kind": "historical_name", "source_url": "https://www.gd2h.com/site/column/145_1_20.html", "accessed_at": "2026-09-05", "valid_to": "1998"}
+    ]
+  }
+]

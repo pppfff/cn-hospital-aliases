@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: python -m pip install -e .
+      - run: python -m unittest discover -s tests -v
+      - run: cn-hospital-alias validate
+      - run: python scripts/check_official_aliases.py
+      - run: python -m pip wheel . --no-deps --wheel-dir dist
+      - run: python -m pip install --force-reinstall --no-deps dist/*.whl
+      - name: Smoke test installed wheel outside checkout
+        working-directory: ${{ runner.temp }}
+        run: python -c "from cn_hospital_aliases import HospitalRegistry; r = HospitalRegistry.load_default(); assert len(r.hospitals) == 2039; assert r.get_one('中国科学院大学宁波华美医院').hospital.canonical_name == '宁波市第二医院'"

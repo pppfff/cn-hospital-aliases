@@ -1,0 +1,89 @@
+{
+  "totalRows": 2039,
+  "curPage": 2,
+  "source_url": "https://beian.cfdi.org.cn/CTMDS/pub/PUB010100.do?method=handle06&curPage=2&pageSize=10",
+  "retrieved_at": "2026-09-05T02:00:28.978268+00:00",
+  "response_sha256": "c5f0303adfd83cb04c48ed42e775257336005139dbb774bc0cbfa17727e9ed0e",
+  "data": [
+    {
+      "companyId": "4D13BAE6C0A803331AD359E36420EEB3",
+      "compName": "嘉兴市第二医院",
+      "areaName": "浙江省",
+      "address": "浙江省嘉兴市南湖区环城北路1518号",
+      "recordNo": "药临床机构备字2019000011",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "E9CABD3DC0A803335C3D6F6CF27E207C",
+      "compName": "十堰市太和医院",
+      "areaName": "湖北省",
+      "address": "湖北省十堰市茅箭区人民南路32号",
+      "recordNo": "药临床机构备字2019000012",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "035AF3A9C0A80333643874C85A536742",
+      "compName": "成都医学院第一附属医院",
+      "areaName": "四川省",
+      "address": "四川省成都市新都区宝光大道278号",
+      "recordNo": "药临床机构备字2019000013",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "29A0505AC0A8033367DA5B7F0B11734C",
+      "compName": "重庆市红十字会医院（江北区人民医院）",
+      "areaName": "重庆市",
+      "address": "重庆市江北区嘉陵一村1号",
+      "recordNo": "药临床机构备字2019000014",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "8F069E4DC0A8033311493FEDC11CA1B2",
+      "compName": "香港大学深圳医院",
+      "areaName": "广东省",
+      "address": "深圳市福田区沙头街道海园一路1号",
+      "recordNo": "药临床机构备字2019000015",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "330A5A5DC0A8033377E4178E3D5A8695",
+      "compName": "重庆医科大学附属第二医院",
+      "areaName": "重庆市",
+      "address": "重庆市渝中区临江路74号",
+      "recordNo": "药临床机构备字2019000016",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "214A1071C0A8033329DECD493FE7EC5E",
+      "compName": "天津医科大学总医院",
+      "areaName": "天津市",
+      "address": "天津市和平区鞍山道154号",
+      "recordNo": "药临床机构备字2019000017",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "35387476C0A803333CDE3A5C3188794D",
+      "compName": "广州市第一人民医院(广州消化疾病中心、广州医科大学附属市一人民医院、华南理工大学附属第二医院)",
+      "areaName": "广东省",
+      "address": "广东省广州市越秀区盘福路1号",
+      "recordNo": "药临床机构备字2019000018",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "A1E5027FC0A803334C3F46C6421F53F3",
+      "compName": "重庆三峡医药高等专科学校附属人民医院",
+      "areaName": "重庆市",
+      "address": "重庆市万州区关门石38号",
+      "recordNo": "药临床机构备字2019000019",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "3B479ACCC0A803333908D2A8E8A2B71A",
+      "compName": "淄博万杰肿瘤医院",
+      "areaName": "山东省",
+      "address": "山东省淄博市博山经济开发区健康大道1号",
+      "recordNo": "药临床机构备字2019000020",
+      "recordStatus": "8"
+    }
+  ]
+}

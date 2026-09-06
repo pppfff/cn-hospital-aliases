@@ -1,0 +1,432 @@
+﻿hospital_id,website,status,title,matched_reference_names,checked_at,automatic_identity_approval,error
+cnha-cfdi-03936a7cc0a803336ea258b096c459d4,http://www.xyhospital.com/,readable,引导页-中国中医科学院西苑医院,中国中医科学院西苑医院,2026-09-05T02:39:53.112971+00:00,False,
+cnha-cfdi-066b931bc0a8033351202887a2fd71fa,http://www.cmu1h.com/,challenge_or_noncontent,,,2026-09-05T02:36:03.343895+00:00,False,No usable public institution text
+cnha-cfdi-0760f716c0a8033319b4c71d741cd396,http://www.ahnmc.com/,readable,南通大学附属医院[AFFILIATED HOSPITAL OF NANTONG UNIVERSITY],Affiliated Hospital of Nantong University | 南通大学附属医院,2026-09-05T02:35:37.678206+00:00,False,
+cnha-cfdi-0b0c702ac0a803331bfa908b88234450,http://www.jlsyy.net/,readable,www.jlsyy.net-官网首页,,2026-09-05T02:37:24.331359+00:00,False,
+cnha-cfdi-0b707dd0c0a8033311cd017b78273291,http://www.wfph.cn/,readable,三级甲等医院_山东省省级区域医疗中心,潍坊市人民医院,2026-09-05T02:39:34.542680+00:00,False,
+cnha-cfdi-0cf24949c0a803332821abbd34763079,http://www.zzslyy.com/,readable,枣庄市立医院,枣庄市立医院,2026-09-05T02:40:33.381978+00:00,False,
+cnha-cfdi-0d9e9d19c0a803332f2e459fefe8ecda,https://www.lnszl.com,unreadable,,,2026-09-05T02:40:56.443092+00:00,False,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+cnha-cfdi-0db8a76bc0a8033343b0ed0176df3d0f,http://www.hnxkyy.com.cn/,readable,河南省胸科医院,河南省胸科医院,2026-09-05T02:37:02.298016+00:00,False,
+cnha-cfdi-0e9edb94c0a8033322217b6117bae902,http://www.wzeye.cn/eyehospital/,unreadable,,,2026-09-05T02:39:41.435001+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-0eb581dec0a80333092f49dd1bd60215,http://www.anti-cancer.com.cn/,readable,河南省肿瘤医院 郑州大学附属肿瘤医院,河南省肿瘤医院,2026-09-05T02:35:38.952549+00:00,False,
+cnha-cfdi-0f27c805c0a803332ce19ba6a765712a,http://www.jnrmyy.com/index.html,unreadable,,,2026-09-05T02:37:24.744756+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-0f96ca2bc0a80333003c85b5667dfb42,http://www.cs4hospital.com/,unreadable,,,2026-09-05T02:36:06.087607+00:00,False,Remote end closed connection without response
+cnha-cfdi-111a51ebc0a8033351ddc3e578d4d069,http://www.zzszxyy.cn/,readable,株洲市中心医院,株洲市中心医院,2026-09-05T02:40:34.116255+00:00,False,
+cnha-cfdi-12ae2e13c0a803333503d61b7562910d,http://www.312000.net/english.aspx,unreadable,,,2026-09-05T02:35:34.298182+00:00,False,Remote end closed connection without response
+cnha-cfdi-12ccb55bc0a80333400cfcf6fc52306b,https://www.shchildren.com.cn,readable,上海市儿童医院,上海市儿童医院,2026-09-05T02:41:00.039194+00:00,False,
+cnha-cfdi-138b56c4c0a803330e40ef24ba80d41f,http://ch.shmu.edu.cn/,readable,复旦大学附属儿科医院,复旦大学附属儿科医院,2026-09-05T02:35:05.337239+00:00,False,
+cnha-cfdi-13c9eaf7c0a8033352df6dbdc89113dd,http://www.tnsi.org/,readable,天津市环湖医院欢迎您！,天津市环湖医院,2026-09-05T02:39:25.394062+00:00,False,
+cnha-cfdi-13cd3688c0a8033335a695c8d55c6e3d,http://www.cssdyyy.com/,unreadable,,,2026-09-05T02:36:06.595640+00:00,False,timed out
+cnha-cfdi-14f98835c0a8033379ddb915cbbb848e,http://www.wzsrmyy.com/,readable,温州市人民医院|温州市妇幼保健院,温州市人民医院,2026-09-05T02:39:43.922312+00:00,False,
+cnha-cfdi-16da30a1c0a80333093840cbb76504fe,http://www.bjzxyy.com/index.php,readable,宝鸡市中心医院_姜谭路院区,宝鸡市中心医院,2026-09-05T02:35:54.026682+00:00,False,
+cnha-cfdi-17863a03c0a803336d8f6df97549f453,http://www.hnzoc.com/,readable,中山大学中山眼科中心海南眼科医院,中山大学中山眼科中心海南眼科医院,2026-09-05T02:37:05.759697+00:00,False,
+cnha-cfdi-178e4af7c0a80333007a1e99b7a2da53,http://www.gxhospital.com/,unreadable,,,2026-09-05T02:36:34.107084+00:00,False,HTTP Error 509: 
+cnha-cfdi-17b5389ac0a803330905d83b03a684c5,http://www.hnzhy.com/,readable,河南中医药大学第一附属医院,河南中医药大学第一附属医院,2026-09-05T02:37:04.928818+00:00,False,
+cnha-cfdi-17c9c043c0a803330faf5ff5d6ea395b,http://www.gszyy.com/,unreadable,,,2026-09-05T02:36:32.219720+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-18cb6e9ac0a8033363b0753f3cba5eee,http://www.gz8h.com.cn/,unreadable,,,2026-09-05T02:36:43.501287+00:00,False,<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1081)>
+cnha-cfdi-18e1e4e6c0a8033309dd544ae217ced3,https://www.jinshanhos.org.cn/,readable,复旦大学附属金山医院,复旦大学附属金山医院,2026-09-05T02:40:54.378361+00:00,False,
+cnha-cfdi-19e0f103c0a803336ebd2c700e31ac50,http://www.cdsyy.com/,readable,常德市第一人民医院,常德市第一人民医院,2026-09-05T02:35:57.593288+00:00,False,
+cnha-cfdi-1b0d359fc0a803334a1c241e97d2032c,http://www.jxndefy.cn/index.shtml,unreadable,,,2026-09-05T02:37:33.643581+00:00,False,timed out
+cnha-cfdi-1cddfb03c0a803332664670577fb4a58,http://fcc.zzu.edu.cn/,unreadable,,,2026-09-05T02:35:18.594909+00:00,False,Remote end closed connection without response
+cnha-cfdi-1d696d32c0a803331506764268553b23,https://www.sdhmdp.com,readable,苏州大学附属第四医院（苏州市独墅湖医院）,苏州大学附属第四医院 | 苏州大学附属第四医院 (苏州市独墅湖医院) | 苏州市独墅湖医院,2026-09-05T02:40:59.085381+00:00,False,
+cnha-cfdi-1e4d48ddc0a803331fd38588d727499e,http://www.sgyy.com.cn/,readable,引导页-北京大学首钢医院,北京大学首钢医院,2026-09-05T02:38:45.122723+00:00,False,
+cnha-cfdi-1ee7cbacc0a803333781c82ae9b72a5d,https://www.wchscu.cn/,readable,四川大学华西医院 - 四川大学华西医院,四川大学华西医院,2026-09-05T02:41:03.867249+00:00,False,
+cnha-cfdi-207c0e3cc0a80333422f4492f05bd844,http://www.tj3zx.cn/,readable,天津市第三中心医院,天津市第三中心医院,2026-09-05T02:39:18.339287+00:00,False,
+cnha-cfdi-20bf70afc0a803331d8b21c12f0aaad7,http://www.cmu4h.cn/,unreadable,,,2026-09-05T02:36:04.097377+00:00,False,Remote end closed connection without response
+cnha-cfdi-214a1071c0a8033329decd493fe7ec5e,http://www.tjmugh.com.cn/,challenge_or_noncontent,,,2026-09-05T02:39:20.708619+00:00,False,No usable public institution text
+cnha-cfdi-22a5b04ac0a8033307695169cc0ae397,http://www.wzhealth.com/en/,unreadable,,,2026-09-05T02:39:43.170240+00:00,False,HTTP Error 412: Precondition Failed
+cnha-cfdi-2378a801c0a8033344aab2495f5daaf2,http://www.hbdxfy.cn/,readable,河北大学附属医院,河北大学附属医院,2026-09-05T02:36:54.822726+00:00,False,
+cnha-cfdi-2582affec0a8033369862c097264a444,http://www.hrbmush.edu.cn/,readable,哈尔滨医科大学附属第二医院,哈尔滨医科大学附属第二医院,2026-09-05T02:37:08.906335+00:00,False,
+cnha-cfdi-26c490e9c0a8033323c1e1fc3cc3cb1a,http://www.zzfh.com/,readable,福建省漳州市医院、福建医科大学附属漳州市医院,福建省漳州市医院,2026-09-05T02:40:31.516240+00:00,False,
+cnha-cfdi-26ddbb23c0a803332da8fc9bf4f5384a,http://www.myfy.com.cn/,unreadable,,,2026-09-05T02:38:01.836056+00:00,False,timed out
+cnha-cfdi-27288bcdc0a8033311523e0dfe55b3ff,http://www.zs6y.com/#,unreadable,,,2026-09-05T02:40:25.036448+00:00,False,Remote end closed connection without response
+cnha-cfdi-28c180c3c0a803337c9a4eaf72b893ea,http://www.bethune-jilin.cn/,unreadable,,,2026-09-05T02:35:43.981945+00:00,False,Remote end closed connection without response
+cnha-cfdi-2a76f77dc0a8033311314f9be1ed9183,http://www.puaihospital.net/,readable,武汉市第四医院|武汉市普爱医院|武汉市骨科医院,武汉市普爱医院 | 武汉市第四医院 | 武汉市骨科医院,2026-09-05T02:38:24.316555+00:00,False,
+cnha-cfdi-31278b94c0a803333d226ab8b1471a8c,http://www.hbpphosp.cn/,unreadable,,,2026-09-05T02:36:56.806381+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+cnha-cfdi-312ade48c0a803330dbbe4dc78900ab2,http://www.bjcyh.com.cn,readable,首页-首都医科大学附属北京朝阳医院,Beijing Chao-Yang Hospital | 北京朝阳医院 | 首都医科大学附属北京朝阳医院,2026-09-05T02:35:50.643644+00:00,False,
+cnha-cfdi-318dc62bc0a8033361606bba37a83140,https://nfh.org.cn,unreadable,,,2026-09-05T02:40:43.648397+00:00,False,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+cnha-cfdi-31c31344c0a803337cc19b734c5cf1ef,http://www.jxsetyy.cn/,readable,江西省儿童医院,江西省儿童医院,2026-09-05T02:37:34.376144+00:00,False,
+cnha-cfdi-31c61602c0a803336b55426e8e04a4da,https://www.cicams.ac.cn,readable,中国医学科学院肿瘤医院_肿瘤医院,中国医学科学院肿瘤医院,2026-09-05T02:40:48.969256+00:00,False,
+cnha-cfdi-330a5a5dc0a8033377e4178e3d5a8695,http://www.sahcqmu.com/,readable,重庆医科大学附属第二医院,重庆医科大学附属第二医院,2026-09-05T02:38:37.516987+00:00,False,
+cnha-cfdi-3340923cc0a803335613d72a9247a1b9,https://www.jlszlyy.com/,readable,吉林省肿瘤医院,吉林省肿瘤医院,2026-09-05T02:40:54.540522+00:00,False,
+cnha-cfdi-350cb36ac0a803331b0d46566a10ed40,http://www.hzszlyy.com/,unreadable,,,2026-09-05T02:37:17.049576+00:00,False,Remote end closed connection without response
+cnha-cfdi-367d16a9c0a803334d358b8a60341c23,http://www.tjnkh.com/,unreadable,,,2026-09-05T02:39:20.867627+00:00,False,timed out
+cnha-cfdi-370cbc66c0a80333260ea7d898e52ddf,http://www.hnjsby.cn/,readable,河南医药大学第二附属医院-河南省精神卫生中心-河南省精神病医院,河南医药大学第二附属医院 | 河南省精神卫生中心 | 河南省精神病医院,2026-09-05T02:36:59.789786+00:00,False,
+cnha-cfdi-37551ed6c0a803335a0094ca2f2a9999,http://www.med.monash.edu.au/sphc/mchi/partners/cn-h-pku3.html,unreadable,,,2026-09-05T02:37:52.470319+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-377cbc83c0a8033328258152d0df5c96,http://www.zxyy.cn/,readable,济南市中心医院,济南市中心医院,2026-09-05T02:40:29.620971+00:00,False,
+cnha-cfdi-37b9443cc0a803331404f539fffb780c,http://www.hzch.gd.cn/,unreadable,,,2026-09-05T02:37:14.405874+00:00,False,timed out
+cnha-cfdi-382ba8b0c0a803335b4ce03a0dba2371,http://www.jsph.net/,unreadable,,,2026-09-05T02:37:26.565526+00:00,False,HTTP Error 412: Precondition Failed
+cnha-cfdi-38d4d4c9c0a8033370f802154de28e76,http://www.tzzxrmyy.com/,readable,滕州市中心人民医院,滕州市中心人民医院,2026-09-05T02:39:26.627962+00:00,False,
+cnha-cfdi-3a82f5aec0a80333558d48cdf85b8d1e,http://www.njch.com.cn/,readable,南京市儿童医院—南京医科大学附属儿童医院 江苏省红十字儿童医院,南京市儿童医院,2026-09-05T02:38:12.286456+00:00,False,
+cnha-cfdi-3bb0a3b4c0a803332a9f6fc83950b0b0,http://www.xiangya.com.cn/web/#,unreadable,,,2026-09-05T02:39:45.873527+00:00,False,HTTP Error 412: Precondition Failed
+cnha-cfdi-3bbb9b13c0a80333757b560b5ab9e182,http://www.gy120.net/,readable,广东药科大学附属第一医院(第一临床医学院),广东药科大学附属第一医院,2026-09-05T02:36:34.569436+00:00,False,
+cnha-cfdi-3bbe3ceec0a803331320f715d583ef2c,http://www.gyfyy.com/cn/index.aspx,unreadable,,,2026-09-05T02:36:42.819078+00:00,False,timed out
+cnha-cfdi-3bdbeeaec0a803336bb4fc0b126bdd8e,http://www.jxszlyy.com/,challenge_or_noncontent,,,2026-09-05T02:37:39.439585+00:00,False,No usable public institution text
+cnha-cfdi-3cc724a6c0a80333710dd56a968dec12,http://www.fyey.cn/,readable,首页--福建医科大学附属第二医院,福建医科大学附属第二医院,2026-09-05T02:36:27.896205+00:00,False,
+cnha-cfdi-3ce595d2c0a803333acc798da7cf0c71,https://www.fahsysu.org.cn,readable,统一入口 | 中山大学附属第一医院,中山大学附属第一医院,2026-09-05T02:40:50.715177+00:00,False,
+cnha-cfdi-3d0b67a2c0a8033370b2e48f7b5c9870,http://www.gyey.com/cn/index.aspx,challenge_or_noncontent,,,2026-09-05T02:36:39.749565+00:00,False,No usable public institution text
+cnha-cfdi-3d423aabc0a803335c9e1a5a0347cb9b,https://www.cd7yy.com,unreadable,,,2026-09-05T02:40:47.601107+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-417dd7d5c0a803332053ddb03e929a9e,http://www.zgno1hos.com.cn/,unreadable,,,2026-09-05T02:40:13.527635+00:00,False,HTTP Error 502: Bad Gateway
+cnha-cfdi-41bce0e2c0a8033315f29b2a61cee434,http://www.dlzxyy.com/,readable,大连理工大学附属中心医院（大连市中心医院）,大连市中心医院 | 大连理工大学附属中心医院,2026-09-05T02:36:17.585500+00:00,False,
+cnha-cfdi-42d95032c0a80333133ed997a11b066f,http://www.bch.com.cn/,readable,首页-首都医科大学附属北京儿童医院,Beijing Children’s Hospital | 北京儿童医院 | 北平私立儿童医院 | 首都医科大学附属北京儿童医院,2026-09-05T02:35:42.577433+00:00,False,
+cnha-cfdi-44259fd7c0a80333772e83dcfca7e60f,http://www.scmc.com.cn/,readable,上海交通大学医学院附属上海儿童医学中心,上海交通大学医学院附属上海儿童医学中心 | 上海儿童医学中心,2026-09-05T02:38:39.442401+00:00,False,
+cnha-cfdi-443b6fddc0a803334e068a5722e251fc,http://www.5055.cn/,unreadable,,,2026-09-05T02:35:34.728307+00:00,False,Remote end closed connection without response
+cnha-cfdi-4444e6f9c0a80333690871be04ab6545,https://www.cd3hospital.com,unreadable,,,2026-09-05T02:40:47.423031+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-447c2c0fc0a8033306e7455935ce5d05,http://www.luhehospital.com/,unreadable,,,2026-09-05T02:37:48.789957+00:00,False,Remote end closed connection without response
+cnha-cfdi-44db4bffc0a8033313e33b5544492482,http://www.cyfy.cn/,readable,承德医学院附属医院,承德医学院附属医院,2026-09-05T02:36:07.345919+00:00,False,
+cnha-cfdi-4513d0e5c0a80333752f89bce81d221b,http://www.tjmhc.com/,challenge_or_noncontent,,,2026-09-05T02:39:20.159965+00:00,False,No usable public institution text
+cnha-cfdi-458e8225c0a803335ec2506c0d2b3ce8,https://www.czey.com/,readable,常州市第二人民医院-常州市第二人民医院,常州市第二人民医院,2026-09-05T02:40:50.710380+00:00,False,
+cnha-cfdi-45e31950c0a80333157eaf9ead1b853b,https://www.pkuszh.com.cn/,unreadable,,,2026-09-05T02:40:57.957795+00:00,False,HTTP Error 418: 
+cnha-cfdi-464b547ac0a8033331338d0e08e74859,http://www.hospital-nsmc.com.cn/index.html,unreadable,,,2026-09-05T02:37:08.669284+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-473fe7d4c0a80333369e1812752d6f58,http://www.sthospital.com/,readable,汕头市中心医院,汕头市中心医院,2026-09-05T02:39:01.572548+00:00,False,
+cnha-cfdi-4754f3d4c0a803331cd8fdb4f4406ac0,https://www.jysrmyy.cn/,readable,揭阳市人民医院 中山大学附属揭阳医院,Jieyang People's Hospital | 中山大学附属揭阳医院 | 揭阳市人民医院 | 揭阳市人民医院（中山大学附属揭阳医院）,2026-09-05T02:40:55.919420+00:00,False,
+cnha-cfdi-49af8e67c0a803336507a7bb3f8db7bc,http://www.rjh.com.cn/,readable,上海交通大学医学院附属瑞金医院,上海交通大学医学院附属瑞金医院,2026-09-05T02:38:36.471440+00:00,False,
+cnha-cfdi-4a7f74e8c0a8033314a7aadf1c8aa2b7,http://www.dmu-1.com/,readable,大连医科大学附属第一医院,大连医科大学附属第一医院,2026-09-05T02:36:18.598198+00:00,False,
+cnha-cfdi-4ab33e0bc0a8033302630a51547a45f3,http://www.hrbmutumour.cn/,unreadable,,,2026-09-05T02:37:09.242309+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-4af055fbc0a8033321f03a33eb4d0fc2,http://www.sdhospital.com.cn/,readable,山东第一医科大学第一附属医院（山东省千佛山医院）【官方网站】,山东省千佛山医院 | 山东第一医科大学第一附属医院,2026-09-05T02:38:43.505794+00:00,False,
+cnha-cfdi-4b02cdbcc0a803336e9d94419358241e,http://www.smhc.org.cn/index_en.aspx,unreadable,,,2026-09-05T02:38:56.475897+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-4b83d9e7c0a803334076ba9db495e4b9,http://www.shiliyiyuan.cn/,readable,威海市立医院-胞与为怀 至爱人生-WEIHAI MUNICIPAL HOSPITAL,Weihai Municipal Hospital | 威海市立医院,2026-09-05T02:38:52.306161+00:00,False,
+cnha-cfdi-4f0ed4cac0a803333ee9974b1e6f6636,https://www.xjrmyy.com,challenge_or_noncontent,,,2026-09-05T02:41:06.979153+00:00,False,No usable public institution text
+cnha-cfdi-51264b97c0a803335a11041859470683,http://www.anyangeye.com/,unreadable,,,2026-09-05T02:35:39.397918+00:00,False,Remote end closed connection without response
+cnha-cfdi-522ea2e9c0a8033328b3052f21083b94,http://www.nmgfy.com/,readable,内蒙古医科大学附属医院,内蒙古医科大学附属医院,2026-09-05T02:38:16.995270+00:00,False,
+cnha-cfdi-556fc35ac0a8033337b37344bce4537d,http://www.myzxyy.com/,unreadable,,,2026-09-05T02:38:03.270311+00:00,False,Remote end closed connection without response
+cnha-cfdi-5577712bc0a8033304fcb807dbd904e0,http://www.gsyy.cn/,unreadable,,,2026-09-05T02:36:31.498235+00:00,False,timed out
+cnha-cfdi-558f64c8c0a803333b2960fdbcb95bb7,http://www.nmgyy.cn/English/index.html,unreadable,,,2026-09-05T02:38:17.099295+00:00,False,HTTP Error 404: 
+cnha-cfdi-55a50612c0a80333003733d3d6e16f10,http://www.nbdeyy.com,challenge_or_noncontent,,,2026-09-05T02:38:04.376540+00:00,False,No usable public institution text
+cnha-cfdi-56692f49c0a803335013e3da1634f3d6,http://www.nysy.com.cn/#,unreadable,,,2026-09-05T02:38:20.276875+00:00,False,HTTP Error 412: Precondition Failed
+cnha-cfdi-5688a594c0a8033332d74ef231918790,http://cfsyy.cn/index.asp,readable,赤峰市医院_赤峰市医院,,2026-09-05T02:35:05.337098+00:00,False,
+cnha-cfdi-56984763c0a803336779babb6fc8fa42,http://www.cdyfy.com/,unreadable,,,2026-09-05T02:35:58.744855+00:00,False,Remote end closed connection without response
+cnha-cfdi-56a3e579c0a8033316c03e0005d96bba,https://xl51.cn,readable,温州医科大学温州市第七人民医院（温州市心理卫生中心、温州市优抚医院、温州市戒毒治疗中心）,温州市第七人民医院,2026-09-05T02:41:11.849343+00:00,False,
+cnha-cfdi-56aefbecc0a8033339b855884e059fac,http://en.tedaich.com/Home.aspx,unreadable,,,2026-09-05T02:35:09.446708+00:00,False,Remote end closed connection without response
+cnha-cfdi-56da0c76c0a8033378166121ef596120,http://www.hnca.org.cn,readable,湖南省肿瘤医院-中南大学湘雅医学院附属肿瘤医院,中南大学湘雅医学院附属肿瘤医院 | 湖南省肿瘤医院,2026-09-05T02:36:57.718578+00:00,False,
+cnha-cfdi-583d67e0c0a803331ff29cfe5c8fdebd,http://www.szhospital.com/,readable,深圳市人民医院门户网站,深圳市人民医院,2026-09-05T02:39:10.939677+00:00,False,
+cnha-cfdi-59ab496ec0a8033369c6dc64de81f975,http://www.hnsrmyy.com/,readable,湖南省人民医院,湖南省人民医院,2026-09-05T02:37:00.029673+00:00,False,
+cnha-cfdi-5a977001c0a803332e59a866f980f41f,http://www.zdsfy.net/,readable,郑州大学第三附属医院,郑州大学第三附属医院,2026-09-05T02:40:10.445098+00:00,False,
+cnha-cfdi-5a9b087bc0a803337e94e03983195adc,http://www.sxsrmyy.com/,unreadable,,,2026-09-05T02:39:05.298696+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-5aade771c0a803334595b5c3428d53c9,http://english.sysucc.org.cn/,readable,Sun Yat-sen University Cancer Center,SYSUCC | Sun Yat-sen University Cancer Center,2026-09-05T02:35:16.267346+00:00,False,
+cnha-cfdi-5bc5271cc0a80333216d3eb98f39844f,http://www.hbch.com.cn/en/,unreadable,,,2026-09-05T02:36:54.385221+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-5c297385c0a803334317fc3900954e03,http://www.btzxyy.com/,readable,包头市中心医院,包头市中心医院,2026-09-05T02:35:55.391957+00:00,False,
+cnha-cfdi-5fa1b83ec0a803333f2b2d82ab77ebfe,http://www.huashan.org.cn/,readable,复旦大学附属华山医院,复旦大学附属华山医院,2026-09-05T02:37:11.195862+00:00,False,
+cnha-cfdi-601a3506c0a803332c09e912a6ed6a6f,http://www.sdzydfy.com/web/index.asp,challenge_or_noncontent,,,2026-09-05T02:38:43.776298+00:00,False,No usable public institution text
+cnha-cfdi-60f5b325c0a803331a6f8a0d94e41c3c,http://wap.whyyy.com,challenge_or_noncontent,,,2026-09-05T02:35:31.578440+00:00,False,No usable public institution text
+cnha-cfdi-637b975dc0a803333264020224c4f75d,http://www.spph-sx.com/,readable,陕西省人民医院,陕西省人民医院,2026-09-05T02:38:59.080801+00:00,False,
+cnha-cfdi-645d8541c0a8033356127b1b254f2668,http://www.halixun.com/0812/,unreadable,,,2026-09-05T02:36:50.063754+00:00,False,Remote end closed connection without response
+cnha-cfdi-6871630cc0a803330daafd3f80189bd7,http://www.mhidsy.com/,readable,mhidsy.com,,2026-09-05T02:38:00.396453+00:00,False,
+cnha-cfdi-6d86801dc0a8033309fe64ed2f53a5f6,http://www.longhua.net/,readable,上海中医药大学附属龙华医院,上海中医药大学附属龙华医院,2026-09-05T02:37:48.362934+00:00,False,
+cnha-cfdi-6dae90ddc0a803335e342eb63d0590c0,http://www.njszyy.cn/,readable,南京市中医院,南京市中医院,2026-09-05T02:38:14.405259+00:00,False,
+cnha-cfdi-6dbec404c0a803332f72931bc454ee4e,http://www.bjcancer.org/_English/Service.html,readable,首页-北京大学肿瘤医院 北京大学临床肿瘤学院、北京市肿瘤防治研究所,北京大学肿瘤医院,2026-09-05T02:35:47.773507+00:00,False,
+cnha-cfdi-6ec7f323c0a8033357cd9d8a9faa7c45,http://www.qhuah.com/,readable,青海大学附属医院,青海大学附属医院,2026-09-05T02:38:28.184870+00:00,False,
+cnha-cfdi-6ef3ba1fc0a803335a951950d4a738de,http://www.ay2fy.com/,readable,安徽医科大学第二附属医院,安徽医科大学第二附属医院,2026-09-05T02:35:41.085123+00:00,False,
+cnha-cfdi-6f123361c0a8033301dca0f48216c258,http://www.cd2120.com/,unreadable,,,2026-09-05T02:35:56.923172+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-71459876c0a803331478331a585293db,https://www.yndsrmyy.com/,readable,云南省第三人民医院,云南省第三人民医院,2026-09-05T02:41:10.042266+00:00,False,
+cnha-cfdi-72402946c0a80333358e0b3c7b0e665c,http://english.hbydsy.com/,challenge_or_noncontent,,,2026-09-05T02:35:14.031305+00:00,False,No usable public institution text
+cnha-cfdi-7cd5f605c0a8033313b6b64d97e193fe,http://www.tzrmyy.cn/,unreadable,,,2026-09-05T02:39:26.314793+00:00,False,HTTP Error 550: 
+cnha-cfdi-7ceaf23ec0a8033333aba3b60f0ec08c,http://www.jzzxyy.com.cn/,challenge_or_noncontent,,,2026-09-05T02:37:41.381260+00:00,False,No usable public institution text
+cnha-cfdi-7d137124c0a80333539fcd8a474e028d,http://www.whyljz.com.cn/,readable,whyljz.com.cn,,2026-09-05T02:39:35.529580+00:00,False,
+cnha-cfdi-7d960a6cc0a803333c09ac6228e51753,http://www.fjsl.com.cn/,readable,福州大学附属省立医院（福建省立医院）,福州大学附属省立医院 | 福建省立医院,2026-09-05T02:36:25.383957+00:00,False,
+cnha-cfdi-80e0d7e7c0a803331dcf2361ad2b01f1,http://www.jspoh.com/,unreadable,,,2026-09-05T02:37:27.891668+00:00,False,timed out
+cnha-cfdi-8262816fc0a80333674bf72767903a94,http://www.zxhospital.com,readable,武汉市中心医院,武汉市中心医院,2026-09-05T02:40:26.890854+00:00,False,
+cnha-cfdi-83c0860bc0a8033360f9794df56395fd,http://www.tj4thch.cn/,readable,天津市第四中心医院,天津市第四中心医院,2026-09-05T02:39:18.560410+00:00,False,
+cnha-cfdi-8411957ac0a803331e837ff978318cf4,http://www.phhp.com.cn/,readable,海南省人民医院,海南省人民医院,2026-09-05T02:38:20.445273+00:00,False,
+cnha-cfdi-846375bac0a803337464390230129518,https://www.fsey.com,readable,佛山市第二人民医院,佛山市第二人民医院,2026-09-05T02:40:51.712288+00:00,False,
+cnha-cfdi-85eb4b82c0a803331df18fb4918e3bf6,http://www.ahslyy.com.cn/,readable,中国科学技术大学附属第一医院（安徽省立医院）,中国科学技术大学附属第一医院 | 安徽省立医院,2026-09-05T02:35:38.359725+00:00,False,
+cnha-cfdi-85ebd49ec0a80333553a4190a0080ea0,http://www.gzsrmyy.com/,readable,赣州市人民医院,赣州市人民医院,2026-09-05T02:36:45.322792+00:00,False,
+cnha-cfdi-87425d16c0a803332cf760b3931ed20b,http://fckyy.fudan.edu.cn/en/,unreadable,,,2026-09-05T02:35:18.624826+00:00,False,Remote end closed connection without response
+cnha-cfdi-877dc8a7c0a803335e9cc239fa3a0b8d,http://www.zchospital.com/#,unreadable,,,2026-09-05T02:40:10.412420+00:00,False,timed out
+cnha-cfdi-87a361ebc0a8033332c5e8986e853e18,http://www.wzhh120.com/,readable,梧州市红十字会医院,梧州市红十字会医院,2026-09-05T02:39:43.752271+00:00,False,
+cnha-cfdi-87bad074c0a80333038e13e2148ea3da,http://www.hasyy.com/,unreadable,,,2026-09-05T02:36:50.972596+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-88d3b2b8c0a803331b12a6cc08d63a3f,http://www.bddyyy.com.cn/english.shtml,unreadable,,,2026-09-05T02:35:43.468877+00:00,False,Remote end closed connection without response
+cnha-cfdi-8943f31ac0a80333354a0df6962a1108,http://www.fjzl.com.cn/,readable,福建省肿瘤医院,福建省肿瘤医院,2026-09-05T02:36:26.260131+00:00,False,
+cnha-cfdi-8bacc487c0a8033318d8410e953b3c04,http://www.dqsrmyy.com/,readable,大庆市人民医院,大庆市人民医院,2026-09-05T02:36:20.219135+00:00,False,
+cnha-cfdi-8c9677c6c0a80333732f874986787cb3,http://www.nfyy.com/,readable,南方医科大学南方医院/第一临床医学院,南方医科大学南方医院,2026-09-05T02:38:11.523450+00:00,False,
+cnha-cfdi-8cc8acb7c0a803337d9c8f8bc4ae361c,http://www.ycsyy.com/,readable,盐城市第一人民医院,盐城市第一人民医院,2026-09-05T02:40:01.557694+00:00,False,
+cnha-cfdi-8d5e7d36c0a80333718f051d3ecd4885,http://www.xyzxyy.com.cn/,readable,信阳市中心医院,信阳市中心医院,2026-09-05T02:39:55.690883+00:00,False,
+cnha-cfdi-8dd7b9b9c0a80333785f0d8e2e12854d,http://www.ybyy.net/,unreadable,,,2026-09-05T02:40:00.454902+00:00,False,Remote end closed connection without response
+cnha-cfdi-8e20a2dac0a80333543d3dd8675674e1,http://www.sumcch.com/,unreadable,,,2026-09-05T02:39:04.171278+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-8f069e4dc0a8033311493fedc11ca1b2,http://www.hku-szh.org/,readable,香港大学深圳医院,香港大学深圳医院,2026-09-05T02:36:57.434001+00:00,False,
+cnha-cfdi-90498cb3c0a80333608cf87ec8056ce6,http://www.sydey.com/,readable,山西医科大学第二医院,山西医科大学第二医院,2026-09-05T02:39:07.765442+00:00,False,
+cnha-cfdi-90e8bfbcc0a8033311829d2674af920d,http://www.pkuh6.cn/,readable,首页-北京大学第六医院,北京大学第六医院,2026-09-05T02:38:22.018911+00:00,False,
+cnha-cfdi-9160584dc0a803334852b549174b5336,http://www.kyfey.com/,readable,昆明医科大学第二附属医院,昆明医科大学第二附属医院,2026-09-05T02:37:42.644147+00:00,False,
+cnha-cfdi-91ae13e4c0a803334363b0261c5172c2,http://www.jhzxyy.cn/,readable,金华市中心医院,金华市中心医院,2026-09-05T02:37:22.231227+00:00,False,
+cnha-cfdi-95a4d38cc0a803333e4235f2ddb5c2f6,https://www.nt2191.com,readable,南通市第一人民医院-国家三级甲等综合性医院,南通市第一人民医院 | 第一人民医院,2026-09-05T02:40:57.054844+00:00,False,
+cnha-cfdi-9a4828d4c0a803336d65b0548efdace5,http://www.nblhlyy.com,readable,宁波市医疗中心李惠利医院,宁波市医疗中心李惠利医院,2026-09-05T02:38:06.874908+00:00,False,
+cnha-cfdi-9ab355d1c0a8033305cc8fed8fd9f878,http://www.jxsrmyy.cn/,unreadable,,,2026-09-05T02:37:39.325626+00:00,False,Remote end closed connection without response
+cnha-cfdi-9c37e137c0a803334be840b08250055d,http://www.jd120.com/,challenge_or_noncontent,,,2026-09-05T02:37:19.367965+00:00,False,No usable public institution text
+cnha-cfdi-a10466e9c0a803333b937f30e488fed6,http://www.ly120.cn/,unreadable,,,2026-09-05T02:37:49.832570+00:00,False,timed out
+cnha-cfdi-a110ca6fc0a8033361d8961082e5e19e,http://www.zjtongde.com/cms/englishdefault.aspx,unreadable,,,2026-09-05T02:40:14.448609+00:00,False,timed out
+cnha-cfdi-a142e98bc0a803336a3b193e17e91236,http://www.zz6y.cn/,readable,郑州市第六人民医院,河南省传染病医院 | 郑州市第六人民医院,2026-09-05T02:40:30.662356+00:00,False,
+cnha-cfdi-a15cc9cbc0a8033339bd35fd623e7255,http://shmc.fudan.edu.cn/eng/show/Pudong,challenge_or_noncontent,,,2026-09-05T02:35:22.958075+00:00,False,No usable public institution text
+cnha-cfdi-a187f5a6c0a8033341bfac25249a0894,http://www.xmzsh.com/Pages/Home/Index.aspx,unreadable,,,2026-09-05T02:39:48.279689+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-a19cdcf4c0a8033304a04100126047c3,http://www.lshospital.zj.cn/,unreadable,,,2026-09-05T02:37:48.567457+00:00,False,timed out
+cnha-cfdi-a2d79c24c0a803336726896fad70ebb6,http://www.tj-fch.com/en/index.html,unreadable,,,2026-09-05T02:39:17.993156+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-a31d20a3c0a803333f0784da0389236b,http://www.gy3y.com/index.html,readable,广州医科大学附属第三医院,广州医科大学附属第三医院,2026-09-05T02:36:36.913201+00:00,False,
+cnha-cfdi-a55325c3c0a8033354d620afa20ac26c,https://www.chinablood.com.cn,readable,"中国医学科学院 血液学研究所 血液病医院 - 中国医学科学院,血液学研究所,血液病医院",中国医学科学院血液病医院,2026-09-05T02:40:48.196804+00:00,False,
+cnha-cfdi-a67a543cc0a80333715ff1453326cb61,http://www.st120.cn/,readable,汕头大学医学院第二附属医院,汕头大学医学院第二附属医院,2026-09-05T02:38:59.947256+00:00,False,
+cnha-cfdi-a68dae61c0a803330aa87c8efde9c72b,http://www.ldzxyy.com/,readable,娄底市中心医院,娄底市中心医院,2026-09-05T02:37:45.778732+00:00,False,
+cnha-cfdi-a77f73acc0a8033351ef676fcbe2692c,http://www.lnph.com/,readable,辽宁省人民医院,辽宁省人民医院,2026-09-05T02:37:45.819802+00:00,False,
+cnha-cfdi-a80f2247c0a80333027f42dab0c78035,http://www.gzbrain.cn/,readable,广州医科大学附属脑科医院，广州市惠爱医院，广州市脑科医院，广州医科大学附属精神病医院，广州市精神病医院，广州市精神卫生中心,广州医科大学附属精神病医院 | 广州医科大学附属脑科医院 | 广州市惠爱医院 | 广州市精神卫生中心 | 广州市精神病医院 | 广州市脑科医院,2026-09-05T02:36:43.846210+00:00,False,
+cnha-cfdi-a8ca5ae4c0a803332f40cb299fdbe61d,http://www.dgphospital.com,unreadable,,,2026-09-05T02:36:12.440049+00:00,False,timed out
+cnha-cfdi-a900ffadc0a803333486f23102c2e40e,http://www.umc.net.cn/,unreadable,,,2026-09-05T02:39:29.278055+00:00,False,timed out
+cnha-cfdi-a9e58d41c0a803334712a9fdd252ffd2,http://www.fyyy.com/,readable,福建医科大学附属第一医院【官方网站】,福建医科大学附属第一医院,2026-09-05T02:36:28.756045+00:00,False,
+cnha-cfdi-aa1ee30bc0a80333230b8748f2d0263c,http://english.zryhyy.com.cn/,unreadable,,,2026-09-05T02:35:17.590648+00:00,False,Remote end closed connection without response
+cnha-cfdi-aa5e801bc0a80333103950ba923572ae,http://www.hzhospital.com/,readable,湖州市中心医院,湖州市中心医院,2026-09-05T02:37:15.774509+00:00,False,
+cnha-cfdi-aaf35c6ec0a803332e232c9de3002662,https://www.zs-hospital.sh.cn,unreadable,,,2026-09-05T02:41:11.639967+00:00,False,HTTP Error 521: 
+cnha-cfdi-ab94acb3c0a80333370367d2fac85029,http://www.hnetyy.net,unreadable,,,2026-09-05T02:36:59.038255+00:00,False,Remote end closed connection without response
+cnha-cfdi-aca5253cc0a803331756b31326d171c1,http://www.wcch.cn/,challenge_or_noncontent,,,2026-09-05T02:39:32.871525+00:00,False,No usable public institution text
+cnha-cfdi-ad94b118c0a80333719526c741366821,http://www.ypfph.com/deskAction.do?method=showDesk,unreadable,,,2026-09-05T02:40:06.723789+00:00,False,Remote end closed connection without response
+cnha-cfdi-af02162ac0a8033362ca0616b61130da,https://www.njyy.com.cn,readable,内江市第一人民医院,内江市第一人民医院,2026-09-05T02:40:56.792701+00:00,False,
+cnha-cfdi-b0e294e2c0a8033365254668ebd20dbc,http://www.zhhospital.cn/,challenge_or_noncontent,,,2026-09-05T02:40:14.061424+00:00,False,No usable public institution text
+cnha-cfdi-b1b916e1c0a803337959d7fcacbd5db1,http://www.wx2h.com/,readable,无锡市第二人民医院 无锡市第二人民医院1,无锡市第二人民医院,2026-09-05T02:39:38.705002+00:00,False,
+cnha-cfdi-b2ba4b41c0a80333455f44fef81c53c1,http://www.wahh.com.cn/,challenge_or_noncontent,,,2026-09-05T02:39:32.142810+00:00,False,No usable public institution text
+cnha-cfdi-b45b220cc0a803337480611370b57181,http://www.ldyy.net.cn/,readable,兰州大学第一医院 - 兰州大学第一医院,兰州大学第一医院,2026-09-05T02:37:45.645422+00:00,False,
+cnha-cfdi-b463d2bec0a803336b5465344a9bd2eb,http://www.dzmhospital.com/News/Main?siteId=510,unreadable,,,2026-09-05T02:36:22.744148+00:00,False,HTTP Error 502: Bad Gateway
+cnha-cfdi-b5cd6543c0a803330d96755e77d8daa5,http://fyy.sdfyy.cn/,unreadable,,,2026-09-05T02:35:19.648067+00:00,False,HTTP Error 422: 
+cnha-cfdi-b642d952c0a803334aa6b910471c02c8,http://www.hljhospital.net/,unreadable,,,2026-09-05T02:36:57.457449+00:00,False,timed out
+cnha-cfdi-b797ac6ec0a8033377b0e5412a0d24da,http://www.ntzlyy.cn,readable,江苏省南通市肿瘤医院_南通市第五人民医院_肿瘤医院,南通市肿瘤医院,2026-09-05T02:38:19.600054+00:00,False,
+cnha-cfdi-b7d8b816c0a80333148e2d188b047f39,http://www.womanhospital.cn/,readable,浙江大学医学院附属妇产科医院,"Women's Hospital, School of Medicine, Zhejiang University | 浙江大学医学院附属妇产科医院",2026-09-05T02:39:37.143098+00:00,False,
+cnha-cfdi-baf67b59c0a8033336a1a7228617e8b5,http://www.shca.org.cn/english,readable,Fudan University Shanghai Cancer Center,Fudan University Shanghai Cancer Center,2026-09-05T02:38:49.574855+00:00,False,
+cnha-cfdi-be58dd73c0a803333d3a61f48bdbad55,http://www.hshospital.cn/web/showabout.asp?ArtID=1249,unreadable,,,2026-09-05T02:37:09.460544+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+cnha-cfdi-c59865fbc0a8033357f5ad827184fd2d,http://www.tjorthop.org/,unreadable,,,2026-09-05T02:39:22.603903+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-c96cb6cfc0a80333106c5822b7f9113e,http://en.xydyfy.com/index.php?m=content&c=index&a=show&catid=6&id=13,unreadable,,,2026-09-05T02:35:11.972423+00:00,False,Remote end closed connection without response
+cnha-cfdi-cac245e9c0a80333661ce99773e9b741,http://www.bjyah.com/Html/News/Main/142.html,readable,英文站点-首都医科大学附属北京佑安医院,北京佑安医院 | 首都医科大学附属北京佑安医院,2026-09-05T02:35:53.777679+00:00,False,
+cnha-cfdi-cb7eef02c0a8033372362db264a58311,http://www.hnsrmyy.net/,challenge_or_noncontent,,,2026-09-05T02:37:02.288609+00:00,False,No usable public institution text
+cnha-cfdi-ce825239c0a80333050e076a5993cb1e,http://www.szkid.com.cn/,readable,深圳市儿童医院,深圳市儿童医院,2026-09-05T02:39:12.979923+00:00,False,
+cnha-cfdi-cf7fafe0c0a803337c221769696693dc,http://www.syshospital.com/,readable,中山大学孙逸仙纪念医院,中山大学孙逸仙纪念医院,2026-09-05T02:39:08.497073+00:00,False,
+cnha-cfdi-cfc87cfdc0a8033370f2b59ea8bf5206,https://www.whuh.com/en/,readable,"Union Hospital, Tongji Medical College, Huazhong University of Science and Technology","Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",2026-09-05T02:41:04.205885+00:00,False,
+cnha-cfdi-d00dfa19c0a8033361c9f822dde08acc,http://www.swmctcm.com/index.html,unreadable,,,2026-09-05T02:39:05.084257+00:00,False,Remote end closed connection without response
+cnha-cfdi-d096fe98c0a803333c5d67902f3d14b9,http://www.sd-cancer.com/,readable,山东第一医科大学附属肿瘤医院|山东省肿瘤医院|山东省肿瘤防治研究院【官方网站】,山东省肿瘤医院 | 山东省肿瘤防治研究院 | 山东第一医科大学附属肿瘤医院,2026-09-05T02:38:41.367226+00:00,False,
+cnha-cfdi-d164b26bc0a803335e5e81c86205b5be,http://www.6thhosp.com/index.html,readable,上海市第六人民医院,上海市第六人民医院,2026-09-05T02:35:36.423623+00:00,False,
+cnha-cfdi-d3a7de8ac0a803332ae265949d8bca90,http://www.nn2yy.com/,challenge_or_noncontent,,,2026-09-05T02:38:17.826919+00:00,False,No usable public institution text
+cnha-cfdi-d482f73ec0a8033332700273742c74b6,http://www.renji.com/Index.aspx,unreadable,,,2026-09-05T02:38:35.091258+00:00,False,HTTP Error 404: 
+cnha-cfdi-d4b86629c0a803336e995356cd7958fa,http://www.xshospital.com/,unreadable,,,2026-09-05T02:39:49.332709+00:00,False,HTTP Error 444: 
+cnha-cfdi-d5d0a870c0a8033365bd187136c16c8c,http://www.ytyhdyy.com/,unreadable,,,2026-09-05T02:40:09.107115+00:00,False,Remote end closed connection without response
+cnha-cfdi-d5d39237c0a80333089149662db7a5be,http://www.pkuph.cn/,unreadable,,,2026-09-05T02:38:22.877925+00:00,False,Remote end closed connection without response
+cnha-cfdi-d624272dc0a80333145e4fbaf6f26c0a,http://www.lchospital.cn/,challenge_or_noncontent,,,2026-09-05T02:37:43.593569+00:00,False,No usable public institution text
+cnha-cfdi-d67e6dfec0a80333728934bfcd7f4627,http://www.haikoumh.com.cn/,readable,海口市人民医院,海口市人民医院,2026-09-05T02:36:48.712658+00:00,False,
+cnha-cfdi-d6ef24aac0a8033338dc6eae29c3581b,http://www.rahos.gov.cn/,challenge_or_noncontent,,,2026-09-05T02:38:32.913506+00:00,False,No usable public institution text
+cnha-cfdi-d707cae9c0a8033355a48dc114d9c7e4,http://www.asch.net.cn/english/list/249.html,unreadable,,,2026-09-05T02:35:40.898045+00:00,False,HTTP Error 426: 
+cnha-cfdi-da50e69ac0a8033314c4be56ac99fa22,http://www.sj-hospital.org/,unreadable,,,2026-09-05T02:38:55.371824+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-dac651f9c0a8033306f8c466867e4477,http://www.fuwaihospital.org/News/Main?siteId=527,readable,中国医学科学院阜外医院,Fu Wai Hospital | 中国医学科学院阜外医院,2026-09-05T02:36:27.763086+00:00,False,
+cnha-cfdi-db14c9dac0a803330de3e9f495fdb997,http://www.szknyy.com/,readable,-深圳市精神卫生中心（深圳市康宁医院）,深圳市康宁医院 | 深圳市精神卫生中心,2026-09-05T02:39:13.183381+00:00,False,
+cnha-cfdi-db373e4bc0a8033358aa9e0c82bd6c96,http://www.nc120.cn/,readable,引导页-首都医科大学附属北京安贞医院南充医院（南充市中心医院、川北医学院附属南充市中心医院）,南充市中心医院 | 首都医科大学附属北京安贞医院南充医院,2026-09-05T02:38:08.749799+00:00,False,
+cnha-cfdi-e316dc10c0a803330c04ed74c08fb93d,http://www.wjhospital.com.cn/,unreadable,,,2026-09-05T02:39:36.968407+00:00,False,HTTP Error 458: status code 458
+cnha-cfdi-e4c2299ec0a8033344cc6b10cb3c6b7f,http://www.jdfy.cn/,readable,江苏大学附属医院官方网站（镇江市江滨医院）-集医疗、教学、科研、预防为一体的综合性三级甲等医院,江苏大学附属医院 | 镇江市江滨医院,2026-09-05T02:37:21.442540+00:00,False,
+cnha-cfdi-e9603a52c0a803337902959920aa3a8d,http://www.stuh.com.cn/,readable,汕头大学医学院第一附属医院,汕头大学医学院第一附属医院,2026-09-05T02:39:02.453611+00:00,False,
+cnha-cfdi-e9931cafc0a80333076533365daf5152,http://www.hz-hospital.com/,challenge_or_noncontent,,,2026-09-05T02:37:11.607133+00:00,False,No usable public institution text
+cnha-cfdi-e9cabd3dc0a803335c3d6f6cf27e207c,http://www.taihehospital.com/,readable,十堰市太和医院_太和医院 _太和医院官网_太和医院官方媒体_十堰市太和医院官网,十堰市太和医院,2026-09-05T02:39:16.159368+00:00,False,
+cnha-cfdi-ea0d4158c0a8033303db75e4c5aa1975,http://www.gdhtcm.com/,readable,广东省中医院,广东省中医院 | 广州中医药大学第二附属医院,2026-09-05T02:36:29.525335+00:00,False,
+cnha-cfdi-ea2747e5c0a80333638fd0970d6d734c,http://www.xinhuamed.com.cn/,readable,上海交通大学医学院附属新华医院,上海交通大学医学院附属新华医院,2026-09-05T02:39:46.429080+00:00,False,
+cnha-cfdi-eadc8d77c0a8033363cbc4f3f4dcc4c9,https://www.tsinghua.edu.cn/publish/chgen/,unreadable,,,2026-09-05T02:41:02.917591+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-ed4d836ec0a803330121353252f3a595,https://www.cdslyyy.com,readable,成都市双流区第一人民医院-四川大学华西空港医院官方网站-华西空港医院-双流区第一人民医院,四川大学华西空港医院 | 成都市双流区第一人民医院,2026-09-05T02:40:47.733423+00:00,False,
+cnha-cfdi-ee623edbc0a8033330de327baef0596f,http://trhos.91health.net,unreadable,,,2026-09-05T02:35:30.383582+00:00,False,Remote end closed connection without response
+cnha-cfdi-ef878593c0a803331633f9dae5bad270,http://www.hz3yy.com/en/index.aspx,unreadable,,,2026-09-05T02:37:13.796305+00:00,False,HTTP Error 404: Not Found
+cnha-cfdi-efcef543c0a803333bac3cae8cf3a7ca,http://www.jyfy.com.cn/,readable,济宁医学院附属医院,济宁医学院附属医院,2026-09-05T02:37:39.895050+00:00,False,
+cnha-cfdi-f04b3a1bc0a803331df9ed77fa224b2e,http://www.cthhmu.com/,readable,河北医科大学第三医院,河北医科大学第三医院,2026-09-05T02:36:07.213122+00:00,False,
+cnha-cfdi-f338e66cc0a803337adcdf3ac9b68fa1,http://english.zjhospital.com.cn/index.html,unreadable,,,2026-09-05T02:35:17.411293+00:00,False,HTTP Error 421: Misdirected Request
+cnha-cfdi-f37348c4c0a803336341ac6f21808c84,http://www.czfph.com/default.asp,challenge_or_noncontent,,,2026-09-05T02:36:10.251444+00:00,False,No usable public institution text
+cnha-cfdi-f38bbd78c0a80333056a73b8390ed2c2,http://www.tjmuch.com/,challenge_or_noncontent,,,2026-09-05T02:39:20.486146+00:00,False,No usable public institution text
+cnha-cfdi-f39d1486c0a8033356e66cced185f148,http://xaszxyy.com/,unreadable,,,2026-09-05T02:40:36.193809+00:00,False,timed out
+cnha-cfdi-f3c097fec0a803334a989b63c800827f,http://www.chesthospital.com/,readable,天津市胸科医院,天津市胸科医院,2026-09-05T02:36:00.191507+00:00,False,
+cnha-cfdi-f4272ec5c0a80333460485425a122d1d,http://www.pumch.cn/index.html,unreadable,,,2026-09-05T02:38:24.324204+00:00,False,HTTP Error 403: Forbidden
+cnha-cfdi-f54478f4c0a803337f778cd3b4849179,http://en.xmfh.com.cn/,readable,厦门第一附属医院英文网,First Affiliated Hospital of Xiamen University,2026-09-05T02:35:10.255095+00:00,False,
+cnha-cfdi-f723a667c0a803337bbbd1a71a8a05c0,http://www.szwy.cn/,readable,苏州市第五人民医院,苏州市第五人民医院,2026-09-05T02:39:15.707422+00:00,False,
+cnha-cfdi-f75fef0bc0a803337fd6ece95424d9e8,https://www.wzhosp.com/,readable,温州市中心医院,温州市中心医院,2026-09-05T02:41:05.121354+00:00,False,
+cnha-cfdi-f8b6f2b9c0a8033316cd39eead68296b,https://www.srrsh.com/,readable,浙江大学医学院附属邵逸夫医院,浙江大学医学院附属邵逸夫医院,2026-09-05T02:41:01.567816+00:00,False,
+cnha-cfdi-f9225458c0a8033321f824bbb774a21f,http://www.ayfy.com/,readable,安徽医科大学第一附属医院,安徽医科大学第一附属医院,2026-09-05T02:35:41.911081+00:00,False,
+cnha-cfdi-fc8093c0c0a80333634c8842c417afb5,http://www.qhsrmyy.com/main/index.asp,unreadable,,,2026-09-05T02:38:27.438654+00:00,False,timed out
+cnha-cfdi-fcd1711ec0a803337779219bf09aa1f7,http://www.jxdyyy.com/-2B-75-43-7A-75-47-68-38-55-2F-59-3D/index.htm,challenge_or_noncontent,,,2026-09-05T02:37:31.420444+00:00,False,No usable public institution text
+cnha-cfdi-fdab536cc0a8033331f709e0eb34965d,http://www.sph.com.cn/,readable,首页-山东省立医院,山东省立医院,2026-09-05T02:38:56.621649+00:00,False,
+cnha-cfdi-fdd05094c0a803332e4470a4901a5db0,http://www.etyy.cn/,readable,,昆明市儿童医院,2026-09-05T02:36:23.067075+00:00,False,
+cnha-cfdi-fe2311f4c0a803333539d49197e1634b,http://smh.cc,challenge_or_noncontent,,,2026-09-05T02:35:27.663473+00:00,False,No usable public institution text
+cnha-cfdi-fff9474dc0a80333235f1a3d04d0fcc9,http://www.ahetyy.com,readable,安徽省儿童医院 - 全国知名大型综合性三级甲等儿童专科医院,复旦大学附属儿科医院安徽医院 | 安徽省儿科医学研究所 | 安徽省儿童医院,2026-09-05T02:35:37.163544+00:00,False,
+cnha-ror-0026mdx79,http://www.mzrmyy.com/,readable,梅州市人民医院（黄塘医院）,梅州市人民医院,2026-09-05T02:38:04.308817+00:00,False,
+cnha-ror-003regz62,https://www.bjtth.org/,readable,首页-北京天坛医院,Beijing Tian Tan Hospital | 北京市神经外科研究所,2026-09-05T02:40:44.794864+00:00,False,
+cnha-ror-004qehs09,http://www.qzhospital.com/,unreadable,,,2026-09-05T02:38:31.502049+00:00,False,timed out
+cnha-ror-005z7vs15,http://www.ahlzmc.com/,unreadable,,,2026-09-05T02:35:37.630008+00:00,False,HTTP Error 444: 
+cnha-ror-006xrph64,http://www.syzxyy.cn/,unreadable,,,2026-09-05T02:39:10.325623+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-00726et14,http://en.motherchildren.com/,readable,West China the second hospital,,2026-09-05T02:35:08.452334+00:00,False,
+cnha-ror-00c639s42,https://www.ynshhyy.com,readable,云南省第二人民医院,云南省第二人民医院,2026-09-05T02:41:11.443336+00:00,False,
+cnha-ror-00fthae95,http://www.dapinghospital.com/,unreadable,,,2026-09-05T02:36:10.657580+00:00,False,timed out
+cnha-ror-00g56wy16,http://shmc.fudan.edu.cn/eng/show/oral,challenge_or_noncontent,,,2026-09-05T02:35:23.075923+00:00,False,No usable public institution text
+cnha-ror-00gp99k74,http://www.bghospital.cn,readable,十大正规植发医院排行榜-全国植发医院排名前十名机构排行推荐-植发之家,,2026-09-05T02:35:45.324338+00:00,False,
+cnha-ror-00h4nzs54,http://www.zmdszxyy.cn/,readable,驻马店市中心医院,,2026-09-05T02:40:22.416140+00:00,False,
+cnha-ror-00j5y7k81,http://www.szlgzxyy.com/,unreadable,,,2026-09-05T02:39:14.283326+00:00,False,HTTP Error 404: Not Found
+cnha-ror-00jkncn63,https://www.sbnk.cn/,challenge_or_noncontent,,,2026-09-05T02:40:58.337070+00:00,False,No usable public institution text
+cnha-ror-00jy5cn48,http://www.mtzyy.com.cn/,unreadable,,,2026-09-05T02:38:00.570944+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-00k5k8k03,http://www.tianhehospital.com/,unreadable,,,2026-09-05T02:39:16.445740+00:00,False,Remote end closed connection without response
+cnha-ror-00k7r7f88,http://www.xwhosp.com.cn/Html/News/Main/135.html,readable,宣武医院英文版-首都医科大学宣武医院,,2026-09-05T02:39:51.619581+00:00,False,
+cnha-ror-00p0n9a62,http://www.mh-hospital.sh.cn/index_yxwen.aspx,unreadable,,,2026-09-05T02:37:56.746464+00:00,False,timed out
+cnha-ror-00qw5wg75,http://www.gzszlyy.cn/,unreadable,,,2026-09-05T02:36:46.497600+00:00,False,Remote end closed connection without response
+cnha-ror-00vrd0936,http://www.307hospital.com/,readable,高清视频大片免费观看_最新电影电视剧动漫综艺免费高清视频 - 307剧场,,2026-09-05T02:35:34.212169+00:00,False,
+cnha-ror-00xabh388,http://www.hbhtcm.com/,unreadable,,,2026-09-05T02:36:55.308727+00:00,False,HTTP Error 404: Not Found
+cnha-ror-00xw2x114,http://www.tsrmyy.cn/,readable,首页-唐山市人民医院,,2026-09-05T02:39:26.244082+00:00,False,
+cnha-ror-00yx0s761,http://www.jyyyw.com/,unreadable,,,2026-09-05T02:37:40.899154+00:00,False,HTTP Error 503: Service Temporarily Unavailable
+cnha-ror-0103dxn66,http://changzheng.h.yynet.cn/,unreadable,,,2026-09-05T02:35:05.338233+00:00,False,Remote end closed connection without response
+cnha-ror-010826a91,http://www.9hospital.net/djy_web/html/djy/portal/index/index.htm,unreadable,,,2026-09-05T02:35:37.055497+00:00,False,Remote end closed connection without response
+cnha-ror-012f2cn18,http://www.shdmu.com/,challenge_or_noncontent,,,2026-09-05T02:38:50.399146+00:00,False,No usable public institution text
+cnha-ror-0132wmv23,http://www.changshacentralhospital.com/,readable,www.changshacentralhospital.com-官网首页,Changsha Central Hospital,2026-09-05T02:35:58.845288+00:00,False,
+cnha-ror-0140x9678,http://www.jxjjsdyrmyy.cn/?yunsuo_session_verify=8a1aa6ad48046555ce45b6ee0fd86ee7,challenge_or_noncontent,,,2026-09-05T02:37:31.889092+00:00,False,No usable public institution text
+cnha-ror-015tqbb95,http://www.xjzlyy.com/,readable,新疆医科大学附属肿瘤医院,,2026-09-05T02:39:46.568333+00:00,False,
+cnha-ror-015ycqv20,https://www.hb2h.com,unreadable,,,2026-09-05T02:40:54.248017+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+cnha-ror-016m2r485,http://www.cz96120.com/Article/ShowClass.asp?ClassID=124,unreadable,,,2026-09-05T02:36:07.501296+00:00,False,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily"
+cnha-ror-01a2gef28,http://www.njfybjy.com/,robots_disallowed,,,2026-09-05T02:38:13.839760+00:00,False,robots.txt disallows this URL
+cnha-ror-01ar3e651,http://www.zxxyyy.cn/,readable,中信湘雅生殖与遗传专科医院,,2026-09-05T02:40:29.038374+00:00,False,
+cnha-ror-01bkvqx83,http://www.hz2y.com/,unreadable,,,2026-09-05T02:37:13.655724+00:00,False,HTTP Error 422: 
+cnha-ror-01cqwmh55,http://www.fshospital.org.cn/,unreadable,,,2026-09-05T02:36:27.476125+00:00,False,Remote end closed connection without response
+cnha-ror-01espdw89,http://www.bjxkyy.cn/en/index.aspx,unreadable,,,2026-09-05T02:35:52.256693+00:00,False,HTTP Error 418: 
+cnha-ror-01ey7we33,http://www.first-hospital.com/,unreadable,,,2026-09-05T02:36:24.389488+00:00,False,Remote end closed connection without response
+cnha-ror-01fd86n56,http://sdey.net/english/,unreadable,,,2026-09-05T02:35:22.208565+00:00,False,timed out
+cnha-ror-01g53at17,http://en.gzfezx.net/,readable,Guangzhou Women And Childrens Medical Center_Hospital_government,Guangzhou Women and Children Medical Center,2026-09-05T02:35:06.848412+00:00,False,
+cnha-ror-01g9gaq76,http://www.xzzlyy.com/,readable,徐州市肿瘤医院,,2026-09-05T02:39:58.853025+00:00,False,
+cnha-ror-01h439d80,http://www.ncsyy.com/,challenge_or_noncontent,,,2026-09-05T02:38:09.743771+00:00,False,No usable public institution text
+cnha-ror-01hbm5940,http://www.jxsfybjyy.cn/,readable,江西省妇幼保健院-首页,江西省妇幼保健院,2026-09-05T02:37:36.627884+00:00,False,
+cnha-ror-01jfd9z49,http://www.zzsetyy.cn/,readable,河南省儿童医院（郑州儿童医院）,河南省儿童医院,2026-09-05T02:40:33.037739+00:00,False,
+cnha-ror-01k3hq685,http://www.njzdyy.com/,readable,中大医院,,2026-09-05T02:38:15.312797+00:00,False,
+cnha-ror-01mxpdw03,http://www.gztcm.com.cn/#,challenge_or_noncontent,,,2026-09-05T02:36:47.681474+00:00,False,No usable public institution text
+cnha-ror-01nnwyz44,http://www.shaphc.org/default.aspx,unreadable,,,2026-09-05T02:38:47.872883+00:00,False,HTTP Error 404: Not Found
+cnha-ror-01pd66220,http://www.302hospital.com/,readable,www.解放军总医院第五医学中心-官网首页,,2026-09-05T02:35:32.635181+00:00,False,
+cnha-ror-01v5mqw79,http://www.znhospital.cn/,unreadable,,,2026-09-05T02:40:23.994444+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-01wcx2305,http://www.c-nbh.com/,unreadable,,,2026-09-05T02:35:56.817484+00:00,False,HTTP Error 504: Gateway Time-out
+cnha-ror-01whmzn59,http://www.hospital-cas.cn/cn/ABOUT/about8.asp,unreadable,,,2026-09-05T02:37:06.255613+00:00,False,Remote end closed connection without response
+cnha-ror-01y07zp44,http://www.nyefy.com/,readable,内蒙古医科大学第二附属医院-首页,,2026-09-05T02:38:20.219517+00:00,False,
+cnha-ror-020299x40,http://www.xajwzx.com/,unreadable,,,2026-09-05T02:39:45.532419+00:00,False,<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1081)>
+cnha-ror-021ky1s64,http://www.bjad.com.cn/article/?sid=106,readable,登录-北京安定医院,北京安定医院,2026-09-05T02:35:47.064654+00:00,False,
+cnha-ror-023te5r95,http://www.zsufivehos.com/english,unreadable,,,2026-09-05T02:40:26.751662+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-026axqv54,http://www.njglyy.com/en/,readable,Nanjing Drum Tower Hospital.,Affiliated Hospital of Nanjing University Medical School | Nanjing Drum Tower Hospital,2026-09-05T02:38:14.009759+00:00,False,
+cnha-ror-026bqfq17,http://www.zzusah.com/,unreadable,,,2026-09-05T02:40:36.089459+00:00,False,Remote end closed connection without response
+cnha-ror-026e9yy16,http://qdumh.qd.sd.cn/index.html,unreadable,,,2026-09-05T02:35:21.152076+00:00,False,Remote end closed connection without response
+cnha-ror-0278r4c85,http://www.xyyfy.com/,readable,河南医药大学一附院_河南医药大学第一附属医院,,2026-09-05T02:39:55.687741+00:00,False,
+cnha-ror-0284jzx23,http://www.xtrmyy.cn/,readable,邢台市人民医院 | 邢台市急救中心,邢台市人民医院,2026-09-05T02:39:49.843972+00:00,False,
+cnha-ror-028yz2737,http://www.ls-hospital.com/,unreadable,,,2026-09-05T02:37:48.392707+00:00,False,timed out
+cnha-ror-029wq9x81,http://www.sichuancancer.org/,unreadable,,,2026-09-05T02:38:55.049422+00:00,False,HTTP Error 504: Gateway Time-out
+cnha-ror-02ar02c28,http://wmdw.jswmw.com/wmdw.asp,unreadable,,,2026-09-05T02:35:31.852289+00:00,False,Remote end closed connection without response
+cnha-ror-02bjs0p66,http://www.chhospital.com.cn/,readable,长海医院,,2026-09-05T02:36:02.714125+00:00,False,
+cnha-ror-02bwytq13,http://en.gzhosp.cn/,unreadable,,,2026-09-05T02:35:07.957425+00:00,False,Remote end closed connection without response
+cnha-ror-02d217z27,http://www.xqhospital.com.cn/,readable,陆军军医大学第二附属医院,,2026-09-05T02:39:49.224958+00:00,False,
+cnha-ror-02erhaz63,http://www.ldey.cn/Category_1380/Index.aspx,unreadable,,,2026-09-05T02:37:44.284720+00:00,False,Remote end closed connection without response
+cnha-ror-02fsmcz03,http://www.tjtcm.cn/english/,readable,First Teaching Hospital of Tianjin University,First Teaching Hospital of Tianjin University of Traditional Chinese Medicine,2026-09-05T02:39:22.948518+00:00,False,
+cnha-ror-02fvevm64,http://www.jstzhospital.com/,unreadable,,,2026-09-05T02:37:28.847836+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-02g01ht84,http://www.ydyy.cn/,unreadable,,,2026-09-05T02:40:01.806540+00:00,False,Remote end closed connection without response
+cnha-ror-02g9jg318,http://www.nc1y.com/,unreadable,,,2026-09-05T02:38:09.043549+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-02h2j1586,http://www.anzhen.org/News/Main?siteId=130,readable,English-首都医科大学附属北京安贞医院,Beijing Anzhen Hospital,2026-09-05T02:35:40.844098+00:00,False,
+cnha-ror-02hd7d161,http://www.dykq120.com/index.php,unreadable,,,2026-09-05T02:36:22.520658+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-02j5n9e16,https://www.xmdeyy.com,unreadable,,,2026-09-05T02:41:07.487685+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-02jn36537,http://xnyy.cn/,readable,陆军军医大学西南医院,,2026-09-05T02:40:39.838625+00:00,False,
+cnha-ror-02jqapy19,http://qdslyy.qdslyy.cn/,unreadable,,,2026-09-05T02:35:19.988725+00:00,False,Remote end closed connection without response
+cnha-ror-02jwb5s28,https://www.bjhmoh.cn/,readable,北京医院,,2026-09-05T02:40:43.847449+00:00,False,
+cnha-ror-02kstas42,http://www.gmcah.cn/,unreadable,,,2026-09-05T02:36:31.427849+00:00,False,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+cnha-ror-02mhxa927,http://www.zjyy.com.cn/en/,readable,南方医科大学珠江医院,,2026-09-05T02:40:16.226773+00:00,False,
+cnha-ror-02p8ayf63,https://www.301hn.cn,unreadable,,,2026-09-05T02:40:43.710935+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>
+cnha-ror-02qkhx131,http://www.pxsrmyy.cn/,unreadable,,,2026-09-05T02:38:24.468254+00:00,False,timed out
+cnha-ror-02s7c9e98,http://www.ydsy.cn/,unreadable,,,2026-09-05T02:40:01.700323+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-02s8x1148,http://www.sjzsdyyy.com/,unreadable,,,2026-09-05T02:38:55.418536+00:00,False,HTTP Error 503: Service Temporarily Unavailable
+cnha-ror-02scvt034,https://www.qzfeyy.com,readable,"泉州市儿童医院|泉州市妇幼保健院(官方网站)_国有公立医院_儿科,妇科,门诊,小儿急救,外科,内科,看病,泉州看妇科疾病,泉州看儿科疾病,泉州生小孩医院,妇产科,人工流产,无痛分娩,妇女儿童保健|医生|就医,公立医院,看妇科疾病,看儿科疾病医院,眼科",QZFEYY | 泉州市妇幼保健院,2026-09-05T02:40:58.245066+00:00,False,
+cnha-ror-02tbvhh96,http://www.dyyy.xjtu.edu.cn/,unreadable,,,2026-09-05T02:36:22.660860+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-02vzqaq35,http://www.sydyy.net.cn/,readable,sydyy.net.cn,,2026-09-05T02:39:07.904439+00:00,False,
+cnha-ror-02wc1yz29,http://www.fdeent.org/,challenge_or_noncontent,,,2026-09-05T02:36:23.650900+00:00,False,No usable public institution text
+cnha-ror-02wh8xm70,http://www.sxsyk.com/html/yingwenban/,unreadable,,,2026-09-05T02:39:05.632806+00:00,False,HTTP Error 404: 
+cnha-ror-02xjrkt08,http://www.sdfey.com/web/jsp/front/english.jsp,unreadable,,,2026-09-05T02:38:42.553080+00:00,False,HTTP Error 404: Not Found
+cnha-ror-02z2yec16,https://www.gzzoc.com,readable,首页 | 中山大学中山眼科中心,,2026-09-05T02:40:53.335301+00:00,False,
+cnha-ror-03037e419,http://www.ncdjyy.com/#;,readable,南昌市中心医院（南昌市传染病医院）,,2026-09-05T02:38:09.446304+00:00,False,
+cnha-ror-030em0930,http://ludaopei.com,unreadable,,,2026-09-05T02:35:19.849102+00:00,False,timed out
+cnha-ror-030sc3x20,http://www.gxmuyfy.cn/gxmufy1/1fy/index/index.asp,unreadable,,,2026-09-05T02:36:34.392400+00:00,False,HTTP Error 404: Not Found
+cnha-ror-03108sf43,http://www.jszlyy.com.cn/,unreadable,,,2026-09-05T02:37:28.896151+00:00,False,timed out
+cnha-ror-0335pr187,http://www.lzgryy.com/,unreadable,,,2026-09-05T02:37:51.071034+00:00,False,Remote end closed connection without response
+cnha-ror-033nbnf69,http://med.tongji.edu.cn/english/article.asp?article_id=6219&category_id=2098&root_id=2086,unreadable,,,2026-09-05T02:35:19.906373+00:00,False,HTTP Error 404: Not Found
+cnha-ror-033vnzz93,https://www.ychcqmu.com,unreadable,,,2026-09-05T02:41:09.836042+00:00,False,HTTP Error 418: 
+cnha-ror-0340t0585,http://www.syjqzyy.com/index.html,unreadable,,,2026-09-05T02:39:08.156248+00:00,False,timed out
+cnha-ror-0358q4810,http://www.szdxfsrhyy.com/,readable,苏州瑞华骨科医院,,2026-09-05T02:39:10.691728+00:00,False,
+cnha-ror-035t17984,http://www.jst-hosp.com.cn/,readable,首页-北京积水潭医院,北京市创伤骨科研究所,2026-09-05T02:37:28.045177+00:00,False,
+cnha-ror-035wt7p80,http://www.slchos.com:8070/,unreadable,,,2026-09-05T02:38:55.761944+00:00,False,timed out
+cnha-ror-035zbbv42,http://yfy.haust.edu.cn/,unreadable,,,2026-09-05T02:40:42.244954+00:00,False,timed out
+cnha-ror-036dyz052,http://www.hjzyy.com.cn/#,unreadable,,,2026-09-05T02:36:57.050754+00:00,False,Remote end closed connection without response
+cnha-ror-037ve0v69,http://www.yanbianhospital.com/,unreadable,,,2026-09-05T02:39:59.075876+00:00,False,Remote end closed connection without response
+cnha-ror-0380dcc73,https://www.hospital7.com/,unreadable,,,2026-09-05T02:40:54.302384+00:00,False,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+cnha-ror-038xmzj21,http://www.shanghaieasthospital.com/,readable,MedoPolo Clinical Electives Shanghai welcomes you,Shanghai East Hospital,2026-09-05T02:38:45.955944+00:00,False,
+cnha-ror-039nc2k59,http://www.whcrb.com/,unreadable,,,2026-09-05T02:39:35.050454+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-03aq7kf18,http://www.2yuan.org/,unreadable,,,2026-09-05T02:35:31.999146+00:00,False,HTTP Error 503: Service Temporarily Unavailable
+cnha-ror-03cmqpr17,http://hospital.glmc.edu.cn/,unreadable,,,2026-09-05T02:35:19.753112+00:00,False,Remote end closed connection without response
+cnha-ror-03cy8qt72,http://www.hz120.cn/,readable,山东省立医院菏泽医院(菏泽市立医院),,2026-09-05T02:37:12.107686+00:00,False,
+cnha-ror-03cyvdv85,https://www.wzhospital.cn/,unreadable,,,2026-09-05T02:41:06.814590+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-03ekhbz91,http://www.rmhospital.com/,unreadable,,,2026-09-05T02:38:37.384780+00:00,False,HTTP Error 521: 
+cnha-ror-03fjc3817,http://www.shxkyy.net/pages/index.aspx,unreadable,,,2026-09-05T02:38:53.939838+00:00,False,Remote end closed connection without response
+cnha-ror-03gxy9f87,http://www.cd5120.com/,unreadable,,,2026-09-05T02:35:57.175608+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>
+cnha-ror-03jpekd50,http://www.gdghospital.org.cn/EN/Index.php,unreadable,,,2026-09-05T02:36:29.309004+00:00,False,HTTP Error 502: Bad Gateway
+cnha-ror-03jxhcr96,http://www.pkucare.com/content/details23_59.html,unreadable,,,2026-09-05T02:38:21.287135+00:00,False,Remote end closed connection without response
+cnha-ror-03k14e164,http://wwwold.hospitalstar.com/,unreadable,,,2026-09-05T02:40:36.123883+00:00,False,Remote end closed connection without response
+cnha-ror-03r4az639,http://www.ykdlfy.com/,unreadable,,,2026-09-05T02:40:04.586376+00:00,False,HTTP Error 444: 
+cnha-ror-03rc99w60,http://www.yd2y.com.cn/,unreadable,,,2026-09-05T02:40:01.646180+00:00,False,HTTP Error 404: Not Found
+cnha-ror-03ssa1s98,http://hbsczzxy.cn/,unreadable,,,2026-09-05T02:35:19.724152+00:00,False,HTTP Error 418: Unknown Status
+cnha-ror-03vjkf643,https://www.shdsyy.com.cn/,unreadable,,,2026-09-05T02:41:00.618535+00:00,False,<urlopen error _ssl.c:1063: The handshake operation timed out>
+cnha-ror-03wgqqb38,http://www.bhlgh.com/en/Default.aspx,unreadable,,,2026-09-05T02:35:46.355515+00:00,False,Remote end closed connection without response
+cnha-ror-03x6hbh34,http://www.jdey.com.cn/,challenge_or_noncontent,,,2026-09-05T02:37:19.749881+00:00,False,No usable public institution text
+cnha-ror-040884w51,http://www.tzzxyy.com,readable,台州市中心医院,台州市中心医院,2026-09-05T02:39:28.050829+00:00,False,
+cnha-ror-040gnq226,http://www.gyyfy.com/,unreadable,,,2026-09-05T02:36:43.306343+00:00,False,timed out
+cnha-ror-041r75465,http://www.zzszxyy.com/,readable,郑州市中心医院,,2026-09-05T02:40:36.025185+00:00,False,
+cnha-ror-041ts2d40,http://www.dlhospital.com/,unreadable,,,2026-09-05T02:36:15.392478+00:00,False,HTTP Error 410: Gone
+cnha-ror-0421p8j22,http://www.wx3h.com.cn/yygk/,readable,www.wx3h.com.cn-官网首页,,2026-09-05T02:39:39.758985+00:00,False,
+cnha-ror-042jtt364,http://www.kj-hospital.com/,unreadable,,,2026-09-05T02:37:42.093092+00:00,False,Remote end closed connection without response
+cnha-ror-042ry7b85,http://www.shanxiwch.com/,readable,山西省儿童医院,山西省妇幼保健院,2026-09-05T02:38:46.388299+00:00,False,
+cnha-ror-043sbvg03,http://www.ehbh.cn/,unreadable,,,2026-09-05T02:36:22.973729+00:00,False,Remote end closed connection without response
+cnha-ror-0441pfj90,http://www.byefy.com/,unreadable,,,2026-09-05T02:35:56.603742+00:00,False,Remote end closed connection without response
+cnha-ror-047c53f83,http://www.zgwhfe.com/,unreadable,,,2026-09-05T02:40:13.913377+00:00,False,HTTP Error 422: 
+cnha-ror-047d8yx24,http://www.cqch.cn/,challenge_or_noncontent,,,2026-09-05T02:36:04.249575+00:00,False,No usable public institution text
+cnha-ror-048q23a93,http://www.xzch.cn/,readable,徐州市中心医院(东南大学附属医院),,2026-09-05T02:39:55.795514+00:00,False,
+cnha-ror-049z3cb60,http://www.nhfyyy.com/,challenge_or_noncontent,,,2026-09-05T02:38:12.120810+00:00,False,No usable public institution text
+cnha-ror-04a46mh28,http://www.firsthospital.cn/,challenge_or_noncontent,,,2026-09-05T02:36:24.443424+00:00,False,No usable public institution text
+cnha-ror-04baw4297,http://www.bjch.com/,unreadable,,,2026-09-05T02:35:49.346210+00:00,False,HTTP Error 404: Not Found
+cnha-ror-04f970v93,http://www.xydwfy.com/,unreadable,,,2026-09-05T02:39:52.675587+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-04fszpp16,http://www.dyhospital.com/,unreadable,,,2026-09-05T02:36:21.353154+00:00,False,Remote end closed connection without response
+cnha-ror-04gjmb875,http://www.gamhospital.ac.cn/english/,unreadable,,,2026-09-05T02:36:29.151130+00:00,False,HTTP Error 521: 
+cnha-ror-04gw3ra78,http://www.301hospital.com.cn/en2012/web/Introduction.html,unreadable,,,2026-09-05T02:35:32.319619+00:00,False,HTTP Error 404: Not Found
+cnha-ror-04gz17b59,http://www.yzsbh.com/Html/News/Articles/537.html,unreadable,,,2026-09-05T02:40:10.324143+00:00,False,Remote end closed connection without response
+cnha-ror-04j2cfe69,http://www.tmuec.com/tmuec/english/,unreadable,,,2026-09-05T02:39:23.158515+00:00,False,HTTP Error 404: Not Found
+cnha-ror-04kmpyd03,http://www.njzy666.com/homepage1/index,readable,www.njzy666.com-官网首页,,2026-09-05T02:38:16.795567+00:00,False,
+cnha-ror-04pge2a40,http://www.jsnydefy.com/,unreadable,,,2026-09-05T02:37:26.408398+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+cnha-ror-04sk80178,http://www.njjnyy.cn/english/1.asp,unreadable,,,2026-09-05T02:38:14.177016+00:00,False,HTTP Error 404: Not Found
+cnha-ror-04tgrpw60,http://www.zzrmyy.com/,readable,郑州人民医院,,2026-09-05T02:40:31.980611+00:00,False,
+cnha-ror-04tm3k558,http://www.zssy.com.cn/,readable,首页 | 中山大学附属第三医院,,2026-09-05T02:40:26.451773+00:00,False,
+cnha-ror-04v043n92,http://www.byyfy.com.cn/,unreadable,,,2026-09-05T02:35:56.626489+00:00,False,HTTP Error 403: Forbidden
+cnha-ror-04vsn7g65,https://www.taishanyy.com/,unreadable,,,2026-09-05T02:41:01.746738+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-04w3qme09,http://www.cssdsyy.com/#,unreadable,,,2026-09-05T02:36:06.527617+00:00,False,"HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently"
+cnha-ror-04xy45965,http://english.tjh.com.cn/,unreadable,,,2026-09-05T02:35:16.807179+00:00,False,Remote end closed connection without response
+cnha-ror-04y2bwa40,http://www.czhospital.com/Index.html,unreadable,,,2026-09-05T02:36:10.273191+00:00,False,Remote end closed connection without response
+cnha-ror-04yrcjm56,http://www.xzkwjtzyy.com/index.aspx,unreadable,,,2026-09-05T02:39:58.279600+00:00,False,HTTP Error 404: Not Found
+cnha-ror-04yvdan45,http://tdwww.fmmu.edu.cn/,challenge_or_noncontent,,,2026-09-05T02:35:29.962665+00:00,False,No usable public institution text
+cnha-ror-04zdsga82,http://www.gxrkyy.com/,unreadable,,,2026-09-05T02:36:34.410447+00:00,False,Remote end closed connection without response
+cnha-ror-04ze64w44,http://www.jsczsy.cn/,challenge_or_noncontent,,,2026-09-05T02:37:25.731710+00:00,False,No usable public institution text
+cnha-ror-050agvb10,https://ycch.cn,unreadable,,,2026-09-05T02:41:12.622834+00:00,False,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+cnha-ror-051c4bd82,http://www.jdyy.cn/index.php/yygk/index.html,unreadable,,,2026-09-05T02:37:22.090764+00:00,False,HTTP Error 404: Not Found
+cnha-ror-051mn8706,http://10031458.hos.999120.net/,unreadable,,,2026-09-05T02:35:05.336767+00:00,False,timed out
+cnha-ror-053qy4437,http://www.bfh.com.cn/,readable,首页-北京友谊医院,北京友谊医院,2026-09-05T02:35:44.277359+00:00,False,
+cnha-ror-053v2gh09,https://www.xyeyy.com/,unreadable,,,2026-09-05T02:41:09.235035+00:00,False,Website returned HTTP 202
+cnha-ror-055gkcy74,http://www.fjxiehe.com/english/index.jsp,unreadable,,,2026-09-05T02:36:25.536833+00:00,False,HTTP Error 404: Not Found
+cnha-ror-0569k1630,http://www.bjsjth.cn/english/english_index.asp,unreadable,,,2026-09-05T02:35:52.093626+00:00,False,timed out
+cnha-ror-056bjcd96,http://www.js-szyy.com/,unreadable,,,2026-09-05T02:37:24.979810+00:00,False,HTTP Error 444: 
+cnha-ror-056ef9489,http://www.qiluhospital.com/site2/eng/09/10101.shtml,unreadable,,,2026-09-05T02:38:30.248661+00:00,False,HTTP Error 404: Not Found
+cnha-ror-057p7h461,http://www.gdmch.com/,unreadable,,,2026-09-05T02:36:31.303412+00:00,False,timed out
+cnha-ror-057vq6e26,https://www.bjzhongyi.com/,readable,首都医科大学附属北京中医医院官网,,2026-09-05T02:40:46.258419+00:00,False,
+cnha-ror-059cjpv64,http://en.z2hospital.com/,unreadable,,,2026-09-05T02:35:12.495316+00:00,False,HTTP Error 504: Gateway Time-out
+cnha-ror-05a9skj35,http://www.sdfey.cn/,unreadable,,,2026-09-05T02:38:41.936789+00:00,False,timed out
+cnha-ror-05akvb491,http://en.xy3yy.com/,unreadable,,,2026-09-05T02:35:10.850909+00:00,False,Remote end closed connection without response
+cnha-ror-05c74bq69,http://www.szrch.com/,unreadable,,,2026-09-05T02:39:15.165729+00:00,False,Remote end closed connection without response
+cnha-ror-05cqe9350,http://xjwww.fmmu.edu.cn/,unreadable,,,2026-09-05T02:40:36.262256+00:00,False,Remote end closed connection without response
+cnha-ror-05kjn8d41,http://www.nx4thhospital.com/index.html,robots_disallowed,,,2026-09-05T02:38:19.676322+00:00,False,robots.txt disallows this URL
+cnha-ror-05kkkes98,http://www.bjdth.com/,challenge_or_noncontent,,,2026-09-05T02:35:51.148524+00:00,False,No usable public institution text
+cnha-ror-05m1p5x56,http://www.zy91.com/,readable,浙江大学医学院附属第一医院,,2026-09-05T02:40:30.453126+00:00,False,
+cnha-ror-05mfr7w08,http://www.ahhfsy.cn/,unreadable,,,2026-09-05T02:35:37.566200+00:00,False,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+cnha-ror-05mzh9z59,http://www.zmchospital.com.cn/,unreadable,,,2026-09-05T02:40:18.659411+00:00,False,timed out
+cnha-ror-05mzp4d74,http://www.sxxxgyy.com/,challenge_or_noncontent,,,2026-09-05T02:39:05.699304+00:00,False,No usable public institution text
+cnha-ror-05pb5hm55,http://www.wuxiph.com/,unreadable,,,2026-09-05T02:39:38.596912+00:00,False,Remote end closed connection without response
+cnha-ror-05pkzpg75,http://www.nbdyyy.com,readable,宁波大学附属第一医院官网,,2026-09-05T02:38:06.655417+00:00,False,
+cnha-ror-05pmkqv04,http://www.qhdsdyyy.com/,challenge_or_noncontent,,,2026-09-05T02:38:24.598605+00:00,False,No usable public institution text
+cnha-ror-05pz4ws32,http://www.cqhmaen.com/b_nr.asp?id=7&type_id=2,unreadable,,,2026-09-05T02:36:05.259543+00:00,False,Remote end closed connection without response
+cnha-ror-05v6r7450,http://www.shskin.com/,unreadable,,,2026-09-05T02:38:52.969640+00:00,False,HTTP Error 412: Precondition Failed
+cnha-ror-05vy2sc54,http://www.54dr.com/,unreadable,,,2026-09-05T02:35:36.089109+00:00,False,Remote end closed connection without response
+cnha-ror-05wbpaf14,http://www.yjsyy.com/,readable,皖南医科大学第一附属医院｜弋矶山医院,,2026-09-05T02:40:03.820571+00:00,False,
+cnha-ror-05x9zm716,https://aysfy.cn/,unreadable,,,2026-09-05T02:40:43.605156+00:00,False,"<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aysfy.cn'. (_ssl.c:1081)>"
+cnha-ror-05xceke97,http://yb120.cn/,unreadable,,,2026-09-05T02:40:42.206960+00:00,False,Remote end closed connection without response

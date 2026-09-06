@@ -1,0 +1,19 @@
+{
+  "sqlite_integrity": "ok",
+  "foreign_key_errors": 0,
+  "trial_count_mismatches": 0,
+  "nmpa_count_mismatches": 0,
+  "duplicate_authoritative_identifiers": 0,
+  "missing_name_evidence_rows": 0,
+  "priority_rows": 1000,
+  "priority_unique_record_ids": 1000,
+  "quarantined_ror_id_in_master": false,
+  "official_field_reviewed_entities": 48,
+  "rows_by_identity_status": {
+    "official_filing": 2039,
+    "reference_curated": 685,
+    "registry_reported": 24164
+  },
+  "nmpa_counts_unavailable_rows": 26888,
+  "warning": "Passing integrity checks does not certify all hospital identities or complete NMPA participation coverage."
+}

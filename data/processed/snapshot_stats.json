@@ -1,0 +1,17 @@
+{
+  "source_data_timestamp": "2026-09-03T09:00:05",
+  "total_interventional_studies_with_china_location": 41272,
+  "studies_with_named_china_facility": 40939,
+  "facility_mentions": 137647,
+  "facility_sites": 38784,
+  "hospital_sites": 25667,
+  "hospital_sites_missing_reported_province": 6324,
+  "hospital_sites_missing_reported_city": 0,
+  "hospital_sites_single_trial": 17947,
+  "hospital_sites_ten_or_more_trials": 1473,
+  "hospital_site_names_latin": 25625,
+  "hospital_site_names_han": 42,
+  "verified_site_matches": 0,
+  "packaged_registry_hospitals": 25667,
+  "alias_candidates_for_review": 46193
+}

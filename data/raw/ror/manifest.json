@@ -1,0 +1,13 @@
+{
+  "source": "Research Organization Registry",
+  "license": "CC0-1.0",
+  "source_url": "https://doi.org/10.5281/zenodo.22099990",
+  "version": "v2.12",
+  "publication_date": "2026-08-25",
+  "checksum": "md5:ce8807691455d4ada3216c31408e9e1a",
+  "china_healthcare_records": 1084,
+  "all_dump_records": 137398,
+  "schema_file": "v2.12-2026-08-25-ror-data.json",
+  "identity_evidence": "reference_curated; not an official Chinese legal-name certification",
+  "subset_sha256": "101941707f64d91bb02b8fab14a1527514eda7feddb2b031ae002bbf94598690"
+}

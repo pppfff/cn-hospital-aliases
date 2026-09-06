@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-09-05",
+  "platform": "NMPA/CDE Drug Clinical Trial Registration and Information Publicity Platform",
+  "homepage": "https://www.chinadrugtrials.org.cn/",
+  "homepage_readable": true,
+  "public_search_url": "https://www.chinadrugtrials.org.cn/clinicaltrials.prosearch.dhtml",
+  "public_search_http_status": 202,
+  "detail_url_checked": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlistdetail.dhtml?reg_no=CTR20221481",
+  "detail_readable_via_web_tool": false,
+  "browser_result": "normal browser navigation timed out",
+  "participation_rows_collected": 0,
+  "complete": false,
+  "blocker": "Public search and detail pages return an access challenge in this environment. No trial-to-institution export is available.",
+  "next_input": "A legitimately obtained export with CTR trial ID, reported institution, location, exact official source URL and retrieval date. The adapter accepts partial exports and never labels them complete."
+}

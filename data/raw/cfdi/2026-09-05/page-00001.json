@@ -1,0 +1,89 @@
+{
+  "totalRows": 2039,
+  "curPage": 1,
+  "source_url": "https://beian.cfdi.org.cn/CTMDS/pub/PUB010100.do?method=handle06&curPage=1&pageSize=10",
+  "retrieved_at": "2026-09-05T02:00:26.654206+00:00",
+  "response_sha256": "dd0a67309b9a18ca2f05e6e3f1a5c76e838c42f44f0efff17efc51d27771c351",
+  "data": [
+    {
+      "companyId": "CAC245E9C0A80333661CE99773E9B741",
+      "compName": "首都医科大学附属北京佑安医院",
+      "areaName": "北京市",
+      "address": "北京市丰台区右安门外西头条8号",
+      "recordNo": "药临床机构备字2019000001",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "E48D8E77C0A803336A2642DBB2C5F9C0",
+      "compName": "齐齐哈尔市中医医院",
+      "areaName": "黑龙江省",
+      "address": "黑龙江省齐齐哈尔市龙沙区德龙路33号",
+      "recordNo": "药临床机构备字2019000002",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "B67AE900C0A803330797F3829ADA2225",
+      "compName": "山东第一医科大学附属眼科医院（山东省眼科医院）",
+      "areaName": "山东省",
+      "address": "山东省济南市槐荫区经四路372号",
+      "recordNo": "药临床机构备字2019000003",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "ACA5253CC0A803331756B31326D171C1",
+      "compName": "成都市妇女儿童中心医院",
+      "areaName": "四川省",
+      "address": "四川省成都市青羊区日月大道1617号、东城根下街24号",
+      "recordNo": "药临床机构备字2019000004",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "BA77DF76C0A803333D800242E116D72C",
+      "compName": "黑龙江中医药大学附属第二医院",
+      "areaName": "黑龙江省",
+      "address": "哈尔滨市南岗区果戈里大街411号、果戈里大街409号、南岗区民益街31-33号",
+      "recordNo": "药临床机构备字2019000005",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "31984D28C0A803333DE5B42E7D38FD21",
+      "compName": "厦门市妇幼保健院、厦门大学附属妇女儿童医院",
+      "areaName": "福建省",
+      "address": "厦门市思明区镇海路10号",
+      "recordNo": "药临床机构备字2019000006",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "1D285607C0A8033317501FFAC20BF2DE",
+      "compName": "武汉大学中南医院",
+      "areaName": "湖北省",
+      "address": "湖北省武汉市武昌区东湖路169号中南医院",
+      "recordNo": "药临床机构备字2019000007",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "EA0D4158C0A8033303DB75E4C5AA1975",
+      "compName": "广东省中医院（广州中医药大学第二附属医院）",
+      "areaName": "广东省",
+      "address": "广州市越秀区大德路111号",
+      "recordNo": "药临床机构备字2019000008",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "CFC87CFDC0A8033370F2B59EA8BF5206",
+      "compName": "华中科技大学同济医学院附属协和医院",
+      "areaName": "湖北省",
+      "address": "武汉市江汉区解放大道1277号",
+      "recordNo": "药临床机构备字2019000009",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "8C9677C6C0A80333732F874986787CB3",
+      "compName": "南方医科大学南方医院",
+      "areaName": "广东省",
+      "address": "广东省广州市白云区广州大道北1838号",
+      "recordNo": "药临床机构备字2019000010",
+      "recordStatus": "8"
+    }
+  ]
+}

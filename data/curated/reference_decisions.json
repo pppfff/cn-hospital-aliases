@@ -1,0 +1,60 @@
+{
+  "quarantine_ror": [
+    {
+      "ror_id": "https://ror.org/01qh26a66",
+      "reason": "English name and website refer to Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, but the Chinese name refers to the distinct Sichuan Academy of Chinese Medicine Sciences. Exclude the entire conflicted record.",
+      "source_urls": ["https://www.samsph.cn/introduce/", "https://old.sacms.com.cn/newshow.aspx?id=1994&mid=134", "https://news.cmc.edu.cn/info/1004/28125.htm"],
+      "accessed_at": "2026-09-05"
+    },
+    {
+      "ror_id": "https://ror.org/045kpgw45",
+      "reason": "The record mixes Guangdong Provincial People's Hospital with the distinct Guangdong Second Provincial General Hospital. Exclude the entire record until the upstream identity is resolved.",
+      "source_urls": ["https://www.gdghospital.org.cn/introductiontothehospital/index.html", "https://www.gdghospital.org.cn/EN/", "https://www.gd2h.com/site/column/145_1_20.html"],
+      "accessed_at": "2026-09-05"
+    }
+  ],
+  "ror_to_cfdi": [
+    {
+      "ror_id": "https://ror.org/056swr059",
+      "cfdi_company_id": "1CDDFB03C0A803332664670577FB4A58",
+      "source_urls": ["https://international.zzu.edu.cn/en/school/detail?cid=3&detail=18&pid=3"],
+      "reason": "The university's official clinical school page identifies its First Affiliated Hospital, matching the filing name and Zhengzhou location.",
+      "accessed_at": "2026-09-05"
+    },
+    {
+      "ror_id": "https://ror.org/0371fqr87",
+      "cfdi_company_id": "CFC87CFDC0A8033370F2B59EA8BF5206",
+      "source_urls": ["https://www.whuh.com/en/index.htm", "https://www.whuh.com/en/About_Us1/History.htm"],
+      "reason": "Official English homepage and history identify the Tongji/HUST Union Hospital in Wuhan. The Fujian Union Hospital ROR 055gkcy74 is explicitly a different institution.",
+      "accessed_at": "2026-09-05"
+    },
+    {
+      "ror_id": "https://ror.org/04jztag35",
+      "cfdi_company_id": "F4272EC5C0A80333460485425A122D1D",
+      "source_urls": ["https://www.pumch.cn/detail/46305.html", "https://www.pumch.cn/research/gudie.html", "https://www.pumch.cn/en/detail/43267.html"],
+      "reason": "The official hospital website uses the full CAMS Chinese name, the shorter Beijing name and the English PUMCH name.",
+      "accessed_at": "2026-09-05"
+    },
+    {
+      "ror_id": "https://ror.org/00my25942",
+      "cfdi_company_id": "BAF67B59C0A8033336A1A7228617E8B5",
+      "source_urls": ["https://www.shca.org.cn/home/news/info/id/323.shtml", "https://www.shca.org.cn/english/channel/index/1108.shtml"],
+      "reason": "Chinese and English hospital introductions identify the same Shanghai cancer center.",
+      "accessed_at": "2026-09-05"
+    },
+    {
+      "ror_id": "https://ror.org/007mrxy13",
+      "cfdi_company_id": "1EE7CBACC0A803333781C82AE9B72A5D",
+      "source_urls": ["https://ent.wchscu.cn/", "https://www.wchscu.cn/scientific/entrance.html"],
+      "reason": "The hospital's bilingual official pages explicitly connect the Chinese and English names.",
+      "accessed_at": "2026-09-05"
+    },
+    {
+      "ror_id": "https://ror.org/02z1vqm45",
+      "cfdi_company_id": "88D3B2B8C0A803331B12A6CC08D63A3F",
+      "source_urls": ["https://www.pkufh.com/News/Articles/ProtectedIndex/1198?isPreview=False", "https://research.bjmu.edu.cn/jdpt/jdml/bwjkyjd/jybzdsys/db6fda93d7b548ee841293259ba29f77.htm"],
+      "reason": "Hospital and university primary sources connect the Chinese and English First Hospital names and address.",
+      "accessed_at": "2026-09-05"
+    }
+  ]
+}

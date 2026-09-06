@@ -1,0 +1,11 @@
+{
+  "unique_urls": 427,
+  "institution_targets": 427,
+  "results": {
+    "readable": 180,
+    "unreadable": 204,
+    "challenge_or_noncontent": 41,
+    "robots_disallowed": 2
+  },
+  "automatic_identity_approvals": 0
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "hospital_id":"cnha-cfdi-0d6cdcd5c0a803336f896af4c3b2de50",
+    "official_review_completed":false,
+    "review_scope":"University research office's 2018 grant guide explicitly specifies bilingual affiliation with 青岛大学附属医院. Only the hospital name is extracted; the laboratory and university research institute are not hospital aliases.",
+    "names":[{"value":"The Affiliated Hospital of QingDao University","kind":"english_name","source_url":"https://kjc.qdu.edu.cn/info/1023/2165.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-cb7eef02c0a8033372362db264a58311",
+    "official_review_completed":false,
+    "review_scope":"Original university-journal article's bilingual affiliation explicitly pairs 河南省人民医院（郑州大学人民医院） with the English name in Zhengzhou. Apostrophe typography is standardized; the transfusion department and coauthor company are not aliases.",
+    "names":[{"value":"Henan Provincial People's Hospital","kind":"english_name","source_url":"https://www.qk.sjtu.edu.cn/jdcp/CN/abstract/abstract50913.shtml","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-21dc9bc3c0a803336131a58f7c89c395",
+    "official_review_completed":false,
+    "review_scope":"Parent university faculty profile explicitly lists the hospital as the institution, separately from previous employment at the second hospital. No automatic college-era historical names, campus aliases or second-hospital merger.",
+    "names":[{"value":"The First Affiliated Hospital of Wenzhou Medical University","kind":"english_name","source_url":"https://sis.wmu.edu.cn/info/7979/32003.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-5bc5271cc0a80333216d3eb98f39844f",
+    "official_review_completed":false,
+    "review_scope":"Hospital official English site identifies the cancer hospital at Zhuodaoquan South Road in Wuhan. Only the explicit hospital name is approved; the sister hospital, prevention office and quality-control center mentioned on the same page are not merged.",
+    "names":[{"value":"Hubei Cancer Hospital","kind":"english_name","source_url":"https://www.hbch.com.cn/english.html","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-1d285607c0a8033317501ffac20bf2de",
+    "official_review_completed":false,
+    "review_scope":"Parent university's dedicated affiliated-hospital profile identifies Zhongnan Hospital. Renmin Hospital and cooperating hospitals are separate; no second-clinical-school alias is approved.",
+    "names":[{"value":"Zhongnan Hospital of Wuhan University","kind":"english_name","source_url":"https://en.whu.edu.cn/info/4691/50291.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-b409a9e9c0a803333b97a6234872adf7",
+    "official_review_completed":false,
+    "review_scope":"University faculty affiliation and university medical-services directory identify the first hospital in Hangzhou. Only the hospital-level names are approved, not the Zhijiang campus qualifier or separately filed Shengzhou branch.",
+    "names":[
+      {"value":"The First Affiliated Hospital, Zhejiang University School of Medicine","kind":"english_name","source_url":"https://person.zju.edu.cn/en/renhaoli","accessed_at":"2026-09-05"},
+      {"value":"First Affiliated Hospital, Zhejiang University School of Medicine","kind":"english_name","source_url":"https://mse.zju.edu.cn/enmse/35303/list.htm","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id":"cnha-cfdi-17badd7fc0a8033348429f2c890ae1f6",
+    "official_review_completed":false,
+    "review_scope":"Hospital English homepage and university medical-services directory identify the second hospital at Jiefang Road, Hangzhou. Numbered hospitals remain separate. No automatic insertion of 'of' into other reported variants.",
+    "names":[
+      {"value":"The Second Affiliated Hospital Zhejiang University School of Medicine","kind":"english_name","source_url":"https://en.z2hospital.com/","accessed_at":"2026-09-05"},
+      {"value":"Second Affiliated Hospital, Zhejiang University School of Medicine","kind":"english_name","source_url":"https://mse.zju.edu.cn/enmse/35303/list.htm","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id":"cnha-cfdi-066b931bc0a8033351202887a2fd71fa",
+    "official_review_completed":false,
+    "review_scope":"Original 2016 publication on the university journal website explicitly pairs 中国医科大学附属第一医院 with the English hospital name in the bilingual affiliation. Evidence of historical name usage, not present eligibility. A different paper translating 第一临床学院 as the hospital was not used to approve a college alias.",
+    "names":[{"value":"The First Hospital of China Medical University","kind":"english_name","source_url":"https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2016.06a.17","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-da50e69ac0a8033314c4be56ac99fa22",
+    "official_review_completed":false,
+    "review_scope":"Hospital-issued clinical research center handbook version 3.0 dated 2022-02-01. The search-indexed bilingual header explicitly pairs the hospital names; PDF text confirms issuer. Screenshot retrieval failed, so visual header recheck remains desirable. Names only: no current specialty eligibility or trial-volume assertion is imported.",
+    "names":[{"value":"Shengjing Hospital of China Medical University","kind":"english_name","source_url":"https://www.sj-hospital.org/shangchuan/lcyjzxgzzy.pdf","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-0eb581dec0a80333092f49dd1bd60215",
+    "official_review_completed":false,
+    "review_scope":"2019 bilingual author affiliation on the university-hosted primary paper, page 1, explicitly pairs 河南省肿瘤医院 with Henan Cancer Hospital in Zhengzhou. Historical evidence of name usage, not current eligibility or an exhaustive historical review; no department or university-wide identity is merged.",
+    "names":[{"value":"Henan Cancer Hospital","kind":"english_name","source_url":"https://sph.zzu.edu.cn/__local/8/D2/E4/B40A50DD335F88E127634992A9C_5D5E4F16_13B55B.pdf","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-31c61602c0a803336b55426e8e04a4da",
+    "official_review_completed":false,
+    "review_scope":"Hospital-hosted bilingual institutional affiliation explicitly names the Beijing institution. Excludes separately filed Shenzhen hospital; no inference about Langfang study scope.",
+    "names":[{"value":"Cancer Hospital, Chinese Academy of Medical Sciences","kind":"english_name","source_url":"https://www.cicams.ac.cn/dzb/navigation/liuxing/zhuan/2108.html","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-8943f31ac0a80333354a0df6962a1108",
+    "official_review_completed":false,
+    "review_scope":"University journal author guidelines explicitly pair 福建省肿瘤医院 with the English hospital name; the clinical medical college is listed separately and is not merged.",
+    "names":[{"value":"Fujian Cancer Hospital","kind":"english_name","source_url":"https://fjmuxb.fjmu.edu.cn/fjykdxxb/site/menus/20211222105233001","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-49af8e67c0a803336507a7bb3f8db7bc",
+    "official_review_completed":false,
+    "review_scope":"University bilingual hospital profile. Jiao Tong versus Jiaotong differs only in whitespace under the existing normalizer. Excludes separately filed Luwan and Hainan hospitals and other cooperating hospitals.",
+    "names":[{"value":"Ruijin Hospital, Shanghai Jiao Tong University School of Medicine","kind":"english_name","source_url":"https://www.shsmu.edu.cn/qnxzforum/info/1108/1217.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-214a1071c0a8033329decd493fe7ec5e",
+    "official_review_completed":false,
+    "review_scope":"University Chinese-English name table, reviewed through search-indexed PDF text; direct PDF retrieval failed. Exact Chinese filing name matches. Excludes separately filed Airport Hospital. Recheck original PDF accessibility on a future source refresh.",
+    "names":[{"value":"Tianjin Medical University General Hospital","kind":"english_name","source_url":"https://gs.tmu.edu.cn/_upload/article/files/25/92/b1ddeac8440d816796748f7f9544/6b270462-3758-4b0a-85f4-f306c880f31e.pdf","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-f38bbd78c0a80333056a73b8390ed2c2",
+    "official_review_completed":false,
+    "review_scope":"University Chinese-English name table, reviewed through search-indexed PDF text; direct PDF retrieval failed. Chinese name is an explicit component of this filing; literal canonical filing text is preserved. The ampersand spelling is not automatically approved.",
+    "names":[{"value":"Tianjin Medical University Cancer Institute and Hospital","kind":"english_name","source_url":"https://gs.tmu.edu.cn/_upload/article/files/25/92/b1ddeac8440d816796748f7f9544/6b270462-3758-4b0a-85f4-f306c880f31e.pdf","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-01b102bec0a803331ea32189f63ef53a",
+    "official_review_completed":false,
+    "review_scope":"University Chinese-English name table, reviewed through search-indexed PDF text; direct PDF retrieval failed. Exact Chinese filing name matches; numbered institutions remain separate.",
+    "names":[{"value":"The Second Hospital of Tianjin Medical University","kind":"english_name","source_url":"https://gs.tmu.edu.cn/_upload/article/files/25/92/b1ddeac8440d816796748f7f9544/6b270462-3758-4b0a-85f4-f306c880f31e.pdf","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-4334524bc0a8033354020bfe4fd76b68",
+    "official_review_completed":false,
+    "review_scope":"University Chinese-English name table, reviewed through search-indexed PDF text; direct PDF retrieval failed. Exact Chinese filing name matches; no university-wide identity merge.",
+    "names":[{"value":"Tianjin Medical University Eye Hospital","kind":"english_name","source_url":"https://gs.tmu.edu.cn/_upload/article/files/25/92/b1ddeac8440d816796748f7f9544/6b270462-3758-4b0a-85f4-f306c880f31e.pdf","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-56da0c76c0a8033378166121ef596120",
+    "official_review_completed":false,
+    "review_scope":"University identifies Hunan Cancer Hospital as the Xiangya School of Medicine affiliate; the separately reviewed Chinese hospital website identifies 湖南省肿瘤医院 and 中南大学湘雅医学院附属肿瘤医院. Name relation only, not campus or study eligibility.",
+    "names":[{"value":"Hunan Cancer Hospital","kind":"english_name","source_url":"https://en.csu.edu.cn/About/Overview.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-56903411c0a8033314d5485e8488750d",
+    "official_review_completed":false,
+    "review_scope":"Consulate explicitly pairs the English name with 南京鼓楼医院（南京大学医学院附属）in Nanjing. Excludes separately filed Suqian hospital.",
+    "names":[{"value":"Nanjing Drum Tower Hospital","kind":"english_name","source_url":"https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/00_000940.html","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-5fa1b83ec0a803333f2b2d82ab77ebfe",
+    "official_review_completed":false,
+    "names":[{"value":"Huashan Hospital, Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-138b56c4c0a803330e40ef24ba80d41f",
+    "official_review_completed":false,
+    "review_scope":"University directory and previously reviewed Chinese hospital website; excludes separately filed Xiamen and Anhui institutions.",
+    "names":[{"value":"Children's Hospital of Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-87425d16c0a803332cf760b3931ed20b",
+    "official_review_completed":false,
+    "names":[{"value":"Obstetrics & Gynecology Hospital of Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-3b82df51c0a80333106dd738c8bd4964",
+    "official_review_completed":false,
+    "names":[{"value":"Eye & ENT Hospital of Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-18e1e4e6c0a8033309dd544ae217ced3",
+    "official_review_completed":false,
+    "names":[{"value":"Jinshan Hospital of Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-e4f2dcb1c0a803332837390648431ed7",
+    "official_review_completed":false,
+    "names":[{"value":"Shanghai Fifth People's Hospital, Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-4686b560c0a8033305d22575a3c0b576",
+    "official_review_completed":false,
+    "names":[{"value":"Shanghai Public Health Clinical Center","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-fd54bff1c0a803330407365647d0fcea",
+    "official_review_completed":false,
+    "names":[{"value":"Huadong Hospital Affiliated to Fudan University","kind":"english_name","source_url":"https://shmc.fudan.edu.cn/eng/2094/list.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-5a8dc1ecc0a803333ca44265c4212218",
+    "official_review_completed":false,
+    "names":[{"value":"Shanghai Pulmonary Hospital","kind":"english_name","source_url":"https://med.tongji.edu.cn/english/HEALTH_CARE/Affiliated_Hospitals1/Shanghai_Pulmonary_Hospital_Affiliated_To_Tongji.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-f4f98652c0a803335f197e2df8ec0b2e",
+    "official_review_completed":false,
+    "review_scope":"Parent university hospital profile; excludes Yulin and separately filed hospitals.",
+    "names":[
+      {"value":"The First Affiliated Hospital of Xi'an Jiaotong University","kind":"english_name","source_url":"https://www.med.xjtu.edu.cn/info/1188/9311.htm","accessed_at":"2026-09-05"},
+      {"value":"First Affiliated Hospital of Xi'an Jiaotong University","kind":"english_name","source_url":"https://en.xjtu.edu.cn/affiliateunits.html","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id":"cnha-cfdi-19d376dcc0a803332ef941e3d98754c0",
+    "official_review_completed":false,
+    "review_scope":"University hospital directory identifies the second hospital separately from the first and third.",
+    "names":[{"value":"The Second Xiangya Hospital of Central South University","kind":"english_name","source_url":"https://xysm.csu.edu.cn/EN/Hospitals.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-3bb0a3b4c0a803332a9f6fc83950b0b0",
+    "official_review_completed":false,
+    "names":[
+      {"value":"Xiangya Hospital Central South University","kind":"english_name","source_url":"https://xysm.csu.edu.cn/EN/Hospitals.htm","accessed_at":"2026-09-05"},
+      {"value":"Xiangya Hospital of Central South University","kind":"english_name","source_url":"https://xynursing.csu.edu.cn/info/1279/3091.htm","accessed_at":"2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id":"cnha-cfdi-d11ea41fc0a80333619244f678fcb2b4",
+    "official_review_completed":false,
+    "names":[{"value":"Third Xiangya Hospital of Central South University","kind":"english_name","source_url":"https://xysm.csu.edu.cn/EN/Hospitals.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-91280931c0a803334e27d70392030c01",
+    "official_review_completed":false,
+    "names":[{"value":"Shanghai Chest Hospital","kind":"english_name","source_url":"https://www.shsmu.edu.cn/english/info/1085/1225.htm","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-382ba8b0c0a803335b4ce03a0dba2371",
+    "official_review_completed":false,
+    "review_scope":"Consulate bilingual listing explicitly pairs Jiangsu Province Hospital with the Chinese hospital and university affiliate name; excludes Chongqing, Suqian and Pukou filings.",
+    "names":[{"value":"Jiangsu Province Hospital","kind":"english_name","source_url":"https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/00_000940.html","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-aa1ee30bc0a80333230b8748f2d0263c",
+    "official_review_completed":false,
+    "review_scope":"FCDO bilingual medical-facility directory; Chinese name matched to existing filing.",
+    "names":[{"value":"China-Japan Friendship Hospital","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-85eb4b82c0a803331df18fb4918e3bf6",
+    "official_review_completed":false,
+    "review_scope":"FCDO bilingual name; Anhui Provincial Hospital Chinese parallel name already independently reviewed against filing.",
+    "names":[{"value":"Anhui Provincial Hospital","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-56c9003ac0a8033343b31363ee17c59e",
+    "official_review_completed":false,
+    "names":[{"value":"The First Affiliated Hospital of Chongqing Medical University","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-a9e58d41c0a803334712a9fdd252ffd2",
+    "official_review_completed":false,
+    "names":[{"value":"The First Affiliated Hospital of Fujian Medical University","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-f54478f4c0a803337f778cd3b4849179",
+    "official_review_completed":false,
+    "names":[{"value":"The First Affiliated Hospital of Xiamen University","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-3bbe3ceec0a803331320f715d583ef2c",
+    "official_review_completed":false,
+    "names":[{"value":"The First Affiliated Hospital of Guangzhou Medical University","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-3ce595d2c0a803333acc798da7cf0c71",
+    "official_review_completed":false,
+    "names":[{"value":"The First Affiliated Hospital, Sun Yat-sen University","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id":"cnha-cfdi-cf7fafe0c0a803337c221769696693dc",
+    "official_review_completed":false,
+    "names":[{"value":"Sun Yat-sen Memorial Hospital, Sun Yat-sen University","kind":"english_name","source_url":"https://www.gov.uk/government/publications/list-of-hospitals-in-china/list-of-medical-facilities-in-china","accessed_at":"2026-09-05"}]
+  },
+  {
+    "hospital_id": "cnha-cfdi-4ab33e0bc0a8033302630a51547a45f3",
+    "official_review_completed": false,
+    "review_scope": "Official 2017 notice explicitly standardizes the Chinese and English hospital names.",
+    "names": [
+      {"value": "Harbin Medical University Cancer Hospital", "kind": "english_name", "source_url": "https://hmucancerhospital.hrbmu.edu.cn/info/1081/19930.htm", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-aaf35c6ec0a803332e232c9de3002662",
+    "official_review_completed": false,
+    "review_scope": "Parent medical college affiliated-hospital directory; excludes Qingpu and Xiamen filings.",
+    "names": [
+      {"value": "Zhongshan Hospital, Fudan University", "kind": "english_name", "source_url": "https://shmc.fudan.edu.cn/eng/2094/list.htm", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-d9fc6752c0a8033353ab9a1cfb4d52fe",
+    "official_review_completed": false,
+    "review_scope": "University journal submission instructions give bilingual institution names.",
+    "names": [
+      {"value": "Fujian Medical University Union Hospital", "kind": "english_name", "source_url": "https://fjmuxb.fjmu.edu.cn/fjykdxxb/site/menus/20211222105233001", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-6dbec404c0a803332f72931bc454ee4e",
+    "official_review_completed": false,
+    "review_scope": "Hospital English names explicitly equated in the official overview; exclude institutes and campuses.",
+    "names": [
+      {"value": "Beijing Cancer Hospital", "kind": "english_name", "source_url": "https://www.bjcancer.org/Html/News/Articles/1000208.html", "accessed_at": "2026-09-05"},
+      {"value": "Peking University Cancer Hospital", "kind": "english_name", "source_url": "https://www.bjcancer.org/Html/News/Articles/1000208.html", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-877dc8a7c0a803335e9cc239fa3a0b8d",
+    "official_review_completed": false,
+    "review_scope": "Bilingual institution name in the hospital ethics committee page.",
+    "names": [
+      {"value": "Zhejiang Cancer Hospital", "kind": "english_name", "source_url": "https://www.zchospital.com/cn/scientific/info/134", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-37551ed6c0a803335a0094ca2f2a9999",
+    "official_review_completed": false,
+    "review_scope": "Official hospital English homepage; no branch-name approval.",
+    "names": [
+      {"value": "Peking University Third Hospital", "kind": "english_name", "source_url": "https://www.puh3.net.cn/english/", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-d5d39237c0a80333089149662db7a5be",
+    "official_review_completed": false,
+    "review_scope": "Hospital self-designation in its official English news; excludes Qingdao hospital.",
+    "names": [
+      {"value": "Peking University People's Hospital", "kind": "english_name", "source_url": "https://english.pkuph.cn/events_detail/581.html", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-3ca9ee0fc0a803331e2817e89dd297d8",
+    "official_review_completed": false,
+    "review_scope": "Official hospital emblem announcement explicitly provides Chinese and English names; excludes Qingdao and Dezhou filings.",
+    "names": [
+      {"value": "Qilu Hospital of Shandong University", "kind": "english_name", "source_url": "https://qiluhospital.com/show-313-17491-1.html", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-b5cd6543c0a803330d96755e77d8daa5",
+    "official_review_completed": false,
+    "review_scope": "Parent university official affiliated-hospital profile.",
+    "names": [
+      {"value": "The First Affiliated Hospital of Soochow University", "kind": "english_name", "source_url": "https://eng.suda.edu.cn/eng/Research/AffiliatedHospitals/201712/befa099f-4704-4eda-b4f1-7445e1fbe20f.html", "accessed_at": "2026-09-05"}
+    ]
+  }
+]

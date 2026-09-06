@@ -1,0 +1,5 @@
+﻿hospital_name,_resolution_status,_hospital_id,_canonical_name,_matched_name,_match_type,_match_score,_candidate_count,_filing_number,_filing_status
+哈医大三院,matched,cnha-cfdi-4ab33e0bc0a8033302630a51547a45f3,哈尔滨医科大学附属肿瘤医院、哈尔滨医科大学附属第三医院、哈尔滨医科大学第三临床医学院、黑龙江省肿瘤医院,哈医大三院,alias,1.000000,1,药临床机构备字2020000204,filed
+"West China Hospital, Sichuan University",matched,cnha-cfdi-1ee7cbacc0a803333781c82ae9b72a5d,四川大学华西医院（四川省国际医院）,"West China Hospital, Sichuan University",alias,1.000000,1,药临床机构备字2020000142,filed
+The First Hospital of Jilin University,matched,cnha-cfdi-28c180c3c0a803337c9a4eaf72b893ea,吉林大学第一医院,The First Hospital of Jilin University,alias,1.000000,1,药临床机构备字2020000193,filed
+安医大一附院,matched,cnha-cfdi-f9225458c0a8033321f824bbb774a21f,安徽医科大学第一附属医院,安医大一附院,alias,1.000000,1,药临床机构备字2020000441,filed

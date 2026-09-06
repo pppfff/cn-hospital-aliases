@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cn-hospital-aliases"
+version = "0.4.0"
+description = "Auditable canonical-name and alias resolution for Chinese hospitals"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "cn-hospital-aliases contributors" }]
+keywords = ["china", "hospital", "alias", "entity-resolution", "healthcare"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+dependencies = []
+
+[project.scripts]
+cn-hospital-alias = "cn_hospital_aliases.cli:main"
+
+[tool.setuptools]
+license-files = ["LICENSE", "DATA_LICENSE.md"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"cn_hospital_aliases.data" = ["*.jsonl", "*.jsonl.gz"]

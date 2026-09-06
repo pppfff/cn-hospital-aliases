@@ -1,0 +1,14 @@
+{
+  "purpose": "Map site aliases to official filing identities, not rank hospitals by trial volume",
+  "official_institutions": 2039,
+  "approved_name_assertions": 2674,
+  "noncanonical_aliases": 635,
+  "institutions_with_aliases": 328,
+  "reference_only_candidates_not_approved": 699,
+  "ambiguous_normalized_names": 0,
+  "filing_status_counts": {
+    "filed": 2039
+  },
+  "nmpa_trial_detail_required_for_build": false,
+  "limitations": "Snapshot-based name normalization; no assertion of current trial eligibility, all historical aliases or legal-entity continuity across separate filings"
+}

@@ -1,0 +1,322 @@
+{
+  "totalRows": 2039,
+  "curPage": 21,
+  "page_size": 100,
+  "source_url": "https://beian.cfdi.org.cn/CTMDS/pub/PUB010100.do?method=handle06&curPage=21&pageSize=100",
+  "retrieved_at": "2026-09-05T02:07:22.639112+00:00",
+  "response_sha256": "cf0afec0bd1adec45e10dbe4300aae59e2b62469d87faab9340b087d55ff1fba",
+  "data": [
+    {
+      "companyId": "D5122990C0A80333589DDB9764637CBF",
+      "compName": "伊春市第一医院（伊春市儿童医院）",
+      "areaName": "黑龙江省",
+      "address": "伊春市伊春区西繁荣街104号",
+      "recordNo": "药临床机构备字2026000137",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "5D0EB621C0A8033374CF75EBF92C76EE",
+      "compName": "运城眼科医院",
+      "areaName": "山西省",
+      "address": "运城市人民北路388号",
+      "recordNo": "药临床机构备字2026000138",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "83663745C0A803335DBA82C795C74C48",
+      "compName": "临淄区妇幼保健院（齐都医院）",
+      "areaName": "山东省",
+      "address": "临淄区齐园路123号",
+      "recordNo": "药临床机构备字2026000139",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "6AA34889C0A8033335B6F820A75F170C",
+      "compName": "临沂市中医医院",
+      "areaName": "山东省",
+      "address": "临沂市兰山区解放路211号",
+      "recordNo": "药临床机构备字2026000140",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "5AD1B2A0C0A80333080D1AAB88C441D8",
+      "compName": "北京大学第一医院宁夏妇女儿童医院(宁夏回族自治区妇幼保健院)",
+      "areaName": "宁夏回族自治区",
+      "address": "银川市金凤区湖畔路127号",
+      "recordNo": "药临床机构备字2026000141",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "EFC37024C0A8033331A27DE7AF478AAC",
+      "compName": "商丘市第三人民医院",
+      "areaName": "河南省",
+      "address": "商丘市君台路与新兴路交叉口西北角",
+      "recordNo": "药临床机构备字2026000142",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "D15D323AC0A8033372CBFA05ECD09E9F",
+      "compName": "巴中市中心医院",
+      "areaName": "四川省",
+      "address": "四川省巴中市南池河街1号",
+      "recordNo": "药临床机构备字2026000143",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "F41CC7CEC0A803335B9E1856EE51764A",
+      "compName": "北京市房山区良乡医院",
+      "areaName": "北京市",
+      "address": "拱辰大街45号",
+      "recordNo": "药临床机构备字2026000145",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "463CAD32C0A803332047F232FFBA1A0A",
+      "compName": "伊犁哈萨克自治州新华医院",
+      "areaName": "新疆维吾尔自治区",
+      "address": "伊犁哈萨克自治州伊宁市兴业路316号",
+      "recordNo": "药临床机构备字2026000146",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "E4D26A31C0A80333519B63B7C0409AC4",
+      "compName": "石门县中医医院",
+      "areaName": "湖南省",
+      "address": "石门县楚江镇澧阳中路35号",
+      "recordNo": "药临床机构备字2026000147",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "B6A36998C0A80333442B5FE87F5D3142",
+      "compName": "平阴县中医医院",
+      "areaName": "山东省",
+      "address": "平阴县云翠街156号",
+      "recordNo": "药临床机构备字2026000148",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "BC904661C0A8033333CDDC3C18D65E7D",
+      "compName": "侯马市医疗集团（侯马市人民医院）",
+      "areaName": "山西省",
+      "address": "侯马市程王路399 号",
+      "recordNo": "药临床机构备字2026000149",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "910AC4B8C0A803331F9A11CADEEBA039",
+      "compName": "运城市第二医院",
+      "areaName": "山西省",
+      "address": "运城市黄河大道897号",
+      "recordNo": "药临床机构备字2026000150",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "1C1749B8C0A803330EBB3EE56F55E717",
+      "compName": "怀化市脑科医院",
+      "areaName": "湖南省",
+      "address": "怀化市湖天南路65号",
+      "recordNo": "药临床机构备字2026000151",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "1CA94015C0A8033351A63365FDC1EFE4",
+      "compName": "厦门市第三医院",
+      "areaName": "福建省",
+      "address": "厦门市同安区阳翟二路2号",
+      "recordNo": "药临床机构备字2026000152",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "881E9F10C0A80333785C08D4C88D8CD6",
+      "compName": "重庆医科大学附属第三医院（方大医院）",
+      "areaName": "重庆市",
+      "address": "重庆市渝北区回兴街道双湖支路1号",
+      "recordNo": "药临床机构备字2026000153",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "D5F2DED0C0A803331E5830A6B119B487",
+      "compName": "梅州市第三人民医院",
+      "areaName": "广东省",
+      "address": "广东省梅州市梅江区城北镇扎下村三组109号",
+      "recordNo": "药临床机构备字2026000154",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "565D604DC0A8033340898798133EA4C4",
+      "compName": "长兴县人民医院临床试验机构",
+      "areaName": "浙江省",
+      "address": "浙江省湖州市长兴县太湖中路66号",
+      "recordNo": "药临床机构备字2026000155",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "D9F524C2C0A803334512A54F83B0E144",
+      "compName": "朔州市大医院",
+      "areaName": "山西省",
+      "address": "朔州市朔城区广安东街189号",
+      "recordNo": "药临床机构备字2026000156",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "365A4244C0A803332A4F8494616895EA",
+      "compName": "太原市第三人民医院(太原市传染病医院、太原市肝病研究所)",
+      "areaName": "山西省",
+      "address": "山西省太原市迎泽区双塔西街65号",
+      "recordNo": "药临床机构备字2026000157",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "EE15F660C0A80333166E3DDDC67BD75D",
+      "compName": "郴州市中医医院",
+      "areaName": "湖南省",
+      "address": "郴州市青年大道503号（郴州市国庆南路20号）；郴州市文化路68号102、103、203",
+      "recordNo": "药临床机构备字2026000158",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "9B70B284C0A80333620088AC3F0484E8",
+      "compName": "宣威云峰医院",
+      "areaName": "云南省",
+      "address": "宣威市板桥镇云峰公司生活区",
+      "recordNo": "药临床机构备字2026000159",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "1D06994CC0A803337D1DE85A8037D679",
+      "compName": "晋中市第三人民医院 晋中市肿瘤医院 (介休市中心医院）",
+      "areaName": "山西省",
+      "address": "晋中市介休市新建西路27号",
+      "recordNo": "药临床机构备字2026000160",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "988EB5FEFE342800E050A8C03202DE0F",
+      "compName": "山西医科大学口腔医院",
+      "areaName": "山西省",
+      "address": "太原市新建南路63号，太原市新建南路139号，新建南路56号",
+      "recordNo": "药临床机构备字2026000161",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "C59582ABC0A803336F4A76C71BD32A39",
+      "compName": "内蒙古朝聚眼科医院",
+      "areaName": "内蒙古自治区",
+      "address": "呼和浩特市新城区车站西街40号",
+      "recordNo": "药临床机构备字2026000162",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "3D748500C0A80333131B2536107362CE",
+      "compName": "北京中医药大学东方医院枣庄医院（枣庄市中医医院）",
+      "areaName": "山东省",
+      "address": "枣庄市薛城区太行山南路2666号",
+      "recordNo": "药临床机构备字2026000164",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "1CFBFAC5C0A8033324D864D23361F2EB",
+      "compName": "中山市第二人民医院",
+      "areaName": "广东省",
+      "address": "中山市港口镇木河迳东路28号",
+      "recordNo": "药临床机构备字2026000165",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "70E612ECC0A803333BFECDC7F8019EA6",
+      "compName": "公安县中医医院",
+      "areaName": "湖北省",
+      "address": "公安县斗湖堤镇油江路234号",
+      "recordNo": "药临床机构备字2026000166",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "315EE66CC0A803333733153CCE8984D6",
+      "compName": "乳山市人民医院",
+      "areaName": "山东省",
+      "address": "乳山市城区珠海路16号",
+      "recordNo": "药临床机构备字2026000167",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "38923137C0A803331B14A852300FCB00",
+      "compName": "国药葛洲坝中心医院",
+      "areaName": "湖北省",
+      "address": "宜昌市夜明珠路57号",
+      "recordNo": "药临床机构备字2026000168",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "3467C413C0A803334F6149ADAABE55E2",
+      "compName": "高州市中医院",
+      "areaName": "广东省",
+      "address": "高州市茂名大道32号",
+      "recordNo": "药临床机构备字2026000169",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "386F9B45C0A80333304CD76029828957",
+      "compName": "邯郸市妇幼保健院",
+      "areaName": "河北省",
+      "address": "河北省邯郸市丛台区丰收路77号",
+      "recordNo": "药临床机构备字2026000170",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "5BB7A5C6C0A803333ABA34C6E9593DFA",
+      "compName": "上海交通大学医学院附属上海儿童医学中心贵州医院",
+      "areaName": "贵州省",
+      "address": "贵州省贵阳市观山湖区金华园街道金朱东路395号",
+      "recordNo": "药临床机构备字2026000171",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "D9D496D4C0A803337EDF83C2076C722E",
+      "compName": "七台河七煤医院",
+      "areaName": "黑龙江省",
+      "address": "黑龙江省七台河市桃山区大同街168号",
+      "recordNo": "药临床机构备字2026000172",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "CA72F98DC0A8033365A8E98BC07C2ADE",
+      "compName": "鹤岗鹤矿医院",
+      "areaName": "黑龙江省",
+      "address": "鹤岗市向阳区六马路1号",
+      "recordNo": "药临床机构备字2026000173",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "CA72D5A8C0A8033311C485454A03849E",
+      "compName": "双鸭山双矿医院",
+      "areaName": "黑龙江省",
+      "address": "双鸭山市尖山区新兴大街66号",
+      "recordNo": "药临床机构备字2026000174",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "BE3CFCC3C0A803332794D710D642A9C3",
+      "compName": "济宁市兖州区人民医院",
+      "areaName": "山东省",
+      "address": "山东省济宁市兖州区建设西路99号",
+      "recordNo": "药临床机构备字2026000175",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "73493C6EC0A803331CB2C67E96698D50",
+      "compName": "保山市隆阳区妇幼保健院(保山市隆阳区妇幼保健计划生育服务中心、保山市隆阳区妇女儿童医院)",
+      "areaName": "云南省",
+      "address": "保山市隆阳区青华街道沈官社区",
+      "recordNo": "药临床机构备字2026000176",
+      "recordStatus": "8"
+    },
+    {
+      "companyId": "E3FCC8A5C0A803333722534B69E96C42",
+      "compName": "罗定市人民医院",
+      "areaName": "广东省",
+      "address": "广东省云浮市罗定市罗城街道陵园路34号",
+      "recordNo": "药临床机构备字2026000177",
+      "recordStatus": "8"
+    }
+  ]
+}

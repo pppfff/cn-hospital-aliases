@@ -1,0 +1,40 @@
+{
+  "complete": true,
+  "source": "CFDI public drug-trial institution filings",
+  "source_url": "https://beian.cfdi.org.cn/CTMDS/apps/pub/drugPublic1.jsp",
+  "retrieved_at": "2026-09-05T02:07:37.646001+00:00",
+  "total_institutions": 2039,
+  "page_count": 21,
+  "retained_fields": [
+    "companyId",
+    "compName",
+    "areaName",
+    "address",
+    "recordNo",
+    "recordStatus"
+  ],
+  "file_sha256": {
+    "page-00001.json": "920a291f73d538505091f793ba2f2ce93b8f0ac299e69735700f63c89d80120e",
+    "page-00002.json": "435d1125207b92a62bbd04790412a24882460512c765c1b672a54424035c2053",
+    "page-00003.json": "2ea31b24e4017258d5d44a24f2d76592956f1ad24261b4fd7dfad744e685222b",
+    "page-00004.json": "f9edb04574dc136d8d568832cd0c0f58ebde224e92afc2df6de3394a5aac27ee",
+    "page-00005.json": "924f8fc8d6d3814bf43251d557a4e708f543d20bc0371a36bc5fa30a7b409244",
+    "page-00006.json": "24057398c568eb17379f0b138a84fb0d991d9ab309f7883f9511f2429c60e4c7",
+    "page-00007.json": "67d2fdae7398605013da96e287d3c70d5aa0777504b59db601a89365f5baf05f",
+    "page-00008.json": "acaeab211c46fcb675a21cc5ffa30779abe21b74d288c965639b76679dbd83ed",
+    "page-00009.json": "b1b86383d25b639a76938ddd496bd6afe2641ecd754ecbd0eca73bc821da8266",
+    "page-00010.json": "f8038a7e851aae9247384723642e9f4c0389cac4ad8fc8c45e975cae66acd15b",
+    "page-00011.json": "7d7f6e3321e0656414acfee3d8cabbb31779f7f2b589c1a9905a6855d13aa579",
+    "page-00012.json": "22b67b9af46906dca1521f8f056a47a4fb5c203f4d793b55f955ddd0cdfd6078",
+    "page-00013.json": "af17e8b046e5508e8d678b92e70c880475015fcb32af082886f541849893eccb",
+    "page-00014.json": "6526db4c11a715662f7b05a293a050de1d086f2891d791e00e7b80e0b14bdb95",
+    "page-00015.json": "e94ece9906a1c108b0477cb035b2e5e4b72790a28b0e7ed01c75d7e2c46369a6",
+    "page-00016.json": "cb3d95b21678afe82573508f43c832b3973533fdc83ef96f583ddf412535c1cc",
+    "page-00017.json": "b838c02a3262e5671301a0c50871fdf134fb81aa46bc3563925671437bb3b949",
+    "page-00018.json": "b675b427cd64e5ef04b8f4f97a9465c584bea45773a3a0ecac56eed799f1a1aa",
+    "page-00019.json": "e569ca567f61273b5cbec2c45748d3f7640dc3b65b94e9b79cd26f4a3f5bc8f0",
+    "page-00020.json": "37fa917b7d1c271c74441c3ed038564e09209c48e14765c8f840f7004101cb51",
+    "page-00021.json": "f38a24dba9c69f84a7ec581d068e322223adbc48a0afb5fe00924e60b9f8ceeb"
+  },
+  "participation_evidence": false
+}

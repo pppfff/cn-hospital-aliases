@@ -1,0 +1,10 @@
+{
+  "official_identity_count": 2039,
+  "literal_filing_names_verified": 2039,
+  "approved_name_assertions": 2674,
+  "reference_only_candidates_excluded": 699,
+  "validation_errors": 0,
+  "validation_warnings": 17,
+  "ambiguous_names": 0,
+  "trial_count_dependency": false
+}

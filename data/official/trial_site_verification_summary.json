@@ -1,0 +1,16 @@
+{
+  "baseline_sha256": "3b292a31736176898e509c7b801b16ba2edefb6ac2b47c19f85dd911d76295d1",
+  "rows_checked_against_available_evidence": 1000,
+  "name_verification_status_counts": {
+    "verified_name_relation": 112,
+    "unverified_no_approved_evidence": 689,
+    "unverified_reference_only": 199
+  },
+  "location_verification_status_counts": {
+    "passes_available_location_filters": 66,
+    "requires_location_review": 46,
+    "not_evaluated_without_approved_identity": 888
+  },
+  "all_name_relations_verified": false,
+  "new_manual_source_reviews_performed_by_script": 0
+}

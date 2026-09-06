@@ -1,0 +1,69 @@
+[
+  {
+    "hospital_id": "cnha-cfdi-55a50612c0a80333003733d3d6e16f10",
+    "official_review_completed": false,
+    "review_scope": "Zhejiang health commission approval Zhe Wei Fa Han [2022] 183, dated 2022-12-23 and published 2023-01-09, explicitly restores Ningbo No.2 Hospital's name. The approval requires subsequent registration changes; exact alias validity dates remain unset rather than treating the approval date as the effective registration date.",
+    "names": [
+      {"value": "中国科学院大学宁波华美医院", "kind": "historical_name", "source_url": "https://wsjkw.zj.gov.cn/art/2023/1/9/art_1229123470_59019349.html", "accessed_at": "2026-09-06"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-2a76f77dc0a8033311314f9be1ed9183",
+    "official_review_completed": false,
+    "review_scope": "The hospital's history documents its original Hankou name and 1958 rename. Its own 2016-12-21 recruitment notice uses the exact shorter Wuhan name in the HR signature. No department, research center or merged predecessor is automatically added.",
+    "names": [
+      {"value": "汉口普爱医院", "kind": "historical_name", "valid_from": "1864", "valid_to": "1958", "source_url": "https://www.puaihospital.cn/list/2.html", "accessed_at": "2026-09-06"},
+      {"value": "武汉普爱医院", "kind": "common_short_name", "source_url": "https://www.puaihospital.cn/view/14.html", "accessed_at": "2026-09-06"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-95a4d38cc0a803333e4235f2ddb5c2f6",
+    "official_review_completed": false,
+    "review_scope": "The university's 2017 report explicitly co-lists the hospital and documents its 1992 affiliation and 2004 affiliated-name change. These are hospital-level names, not a merger with Nantong University Affiliated Hospital. Year-level historical validity only.",
+    "names": [
+      {"value": "南通大学第二附属医院", "kind": "parallel_name", "source_url": "https://ntdxxb.ntu.edu.cn/2017/0301/c2453a56107/page.htm", "accessed_at": "2026-09-06"},
+      {"value": "南通医学院第二附属医院", "kind": "historical_name", "valid_from": "1992", "valid_to": "2004", "source_url": "https://ntdxxb.ntu.edu.cn/2017/0301/c2453a56107/page.htm", "accessed_at": "2026-09-06"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-e9931cafc0a80333076533365daf5152",
+    "official_review_completed": false,
+    "review_scope": "Westlake's unveiling report explicitly identifies Hangzhou First People's Hospital as the named affiliated hospital. Preserve the pinned filing's literal canonical name, which omits the medical-school qualifier; do not merge the medical school.",
+    "names": [
+      {"value": "西湖大学医学院附属杭州市第一人民医院", "kind": "parallel_name", "source_url": "https://medicine.westlake.edu.cn/News/202311/t20231120_35311.shtml", "accessed_at": "2026-09-06"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-ed4d836ec0a803330121353252f3a595",
+    "official_review_completed": false,
+    "review_scope": "Hospital-authored employer profile on Sichuan University's site names the filing institution and explicitly documents adoption of the airport-hospital name on 2020-03-18. This is not a merger into West China Hospital, whose separate filing remains independent.",
+    "names": [
+      {"value": "四川大学华西空港医院", "kind": "parallel_name", "valid_from": "2020-03-18", "source_url": "https://jy.scu.edu.cn/index/index/employjobdetail.html?data=MDAwMDAwMDAwMJG6n3_Ed6imi4qQtLh4iZmKz7ausnbddricp9CWi5qikaeWacSdqLqGfaK2w4iil5C4zNbGiL-E", "accessed_at": "2026-09-06"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-974762cfc0a803334dd40ca549d38fed",
+    "official_review_completed": false,
+    "review_scope": "Nanjing University's 2023-07-22 unveiling report explicitly identifies Suzhou Science and Technology Town Hospital with both co-listed hospital names. This does not merge Nanjing Drum Tower Hospital or approve another university affiliation.",
+    "names": [
+      {"value": "南京大学医学院附属苏州医院", "kind": "parallel_name", "source_url": "https://www.nju.edu.cn/info/1055/334701.htm", "accessed_at": "2026-09-05"},
+      {"value": "南京鼓楼医院集团苏州医院", "kind": "parallel_name", "source_url": "https://www.nju.edu.cn/info/1055/334701.htm", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-44259fd7c0a80333772e83dcfca7e60f",
+    "official_review_completed": false,
+    "review_scope": "The parent medical school's hospital profile is titled with the short hospital name and identifies the full institution in its introduction. No research department or generic national-center title is approved.",
+    "names": [
+      {"value": "上海儿童医学中心", "kind": "common_short_name", "source_url": "https://www.shsmu.edu.cn/qnxzforum/info/1294/1565.htm", "accessed_at": "2026-09-05"}
+    ]
+  },
+  {
+    "hospital_id": "cnha-cfdi-dac651f9c0a8033306f8c466867e4477",
+    "official_review_completed": false,
+    "review_scope": "Hospital-published 2022 surgical annual report, printed pages 63 and 67 (PDF pages 69 and 73), documents the 1994 rename and 2014 restoration. Validity precision is year only; the separately incorporated National Center for Cardiovascular Diseases is not merged.",
+    "names": [
+      {"value": "中国医学科学院阜外心血管病医院", "kind": "historical_name", "valid_from": "1994", "valid_to": "2014", "source_url": "https://www.fuwaihospital.org/Sites/Uploaded/File/2025/3/2022%E5%B9%B4%E5%A4%96%E7%A7%91%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf", "accessed_at": "2026-09-05"}
+    ]
+  }
+]

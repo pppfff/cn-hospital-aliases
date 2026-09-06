@@ -1,0 +1,32 @@
+{
+  "totalCount": 2,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {"nctId": "NCT00000001"},
+        "statusModule": {"lastUpdatePostDateStruct": {"date": "2026-01-02"}},
+        "designModule": {"studyType": "INTERVENTIONAL"},
+        "contactsLocationsModule": {
+          "locations": [
+            {"facility": "Example Hospital", "status": "RECRUITING", "city": "Beijing", "state": "Beijing", "country": "China"},
+            {"facility": "Example Hospital", "status": "RECRUITING", "city": "Boston", "state": "Massachusetts", "country": "United States"}
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {"nctId": "NCT00000002"},
+        "statusModule": {"lastUpdatePostDateStruct": {"date": "2025-02-03"}},
+        "designModule": {"studyType": "INTERVENTIONAL"},
+        "contactsLocationsModule": {
+          "locations": [
+            {"facility": "EXAMPLE-HOSPITAL", "status": "COMPLETED", "city": "Beijing", "state": "Beijing", "country": "China"},
+            {"facility": "Site 002", "status": "COMPLETED", "city": "Shanghai", "state": "Shanghai", "country": "China"}
+          ]
+        }
+      }
+    }
+  ]
+}
+

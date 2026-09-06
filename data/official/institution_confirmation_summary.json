@@ -1,0 +1,10 @@
+{
+  "filing_identities_confirmed": 2039,
+  "english_status_counts": {
+    "deferred_not_required_for_identity": 1977,
+    "source_reviewed": 62
+  },
+  "english_required_for_identity": false,
+  "all_research_center_aliases_confirmed": false,
+  "scope": "Pinned CFDI filing snapshot; separate from trial-site alias confirmation"
+}

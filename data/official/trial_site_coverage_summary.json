@@ -1,0 +1,21 @@
+{
+  "input": "data/processed/hospital_sites.csv.gz",
+  "official_registry": "NMPA/CFDI drug-trial institution filings",
+  "input_site_rows": 25667,
+  "matched_site_rows": 94,
+  "matched_location_conflict_rows": 619,
+  "ambiguous_site_rows": 0,
+  "unmatched_site_rows": 24954,
+  "trial_count_by_status": {
+    "matched": 21745,
+    "matched_location_conflict": 6160,
+    "ambiguous": 0,
+    "unmatched": 81554
+  },
+  "trial_count_definition": "Sum of within-group distinct trial counts; not globally distinct trials and not NMPA trial counts",
+  "location_conflict_definition": "Name-only candidates exist but location filters rejected them; this may be a spelling or location-alias gap, not a proven geographic conflict",
+  "review_queue_rows": 1000,
+  "review_queue_limit": 1000,
+  "fuzzy_matching_used": false,
+  "approval_effect": "none; reported names remain review candidates"
+}
